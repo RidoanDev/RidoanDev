@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youbtech01&label=Profile%20views&color=0e75b6&style=flat" alt="youbtech01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md Ridoan Mahmud Zisan&label=Profile%20views&color=0e75b6&style=flat" alt="Md Ridoan Mahmud Zisan" /> </p>
 
 ---
 
@@ -46,19 +46,19 @@ I am a **Full-Stack Developer** with a strong passion for building scalable and 
 - **Description**: A full-stack e-commerce platform built with React and Node.js.
 - **Tech Stack**: React, Node.js, MongoDB, Express.
 - **Live Demo**: [E-Commerce Website](https://example.com)
-- **GitHub Repo**: [E-Commerce Repo](https://github.com/youbtech01/ecommerce)
+- **GitHub Repo**: [E-Commerce Repo](https://github.com/Md Ridoan Mahmud Zisan/ecommerce)
 
 #### 2. **Task Manager App**
 - **Description**: A Flutter-based mobile app for managing daily tasks.
 - **Tech Stack**: Flutter, Dart, Firebase.
 - **Live Demo**: [Task Manager App](https://example.com)
-- **GitHub Repo**: [Task Manager Repo](https://github.com/youbtech01/task-manager)
+- **GitHub Repo**: [Task Manager Repo](https://github.com/Md Ridoan Mahmud Zisan/task-manager)
 
 #### 3. **Portfolio Website**
 - **Description**: My personal portfolio website showcasing my skills and projects.
 - **Tech Stack**: HTML, CSS, JavaScript.
 - **Live Demo**: [Portfolio Website](https://ridoan-zisan.netlify.app)
-- **GitHub Repo**: [Portfolio Repo](https://github.com/youbtech01/portfolio)
+- **GitHub Repo**: [Portfolio Repo](https://github.com/Md Ridoan Mahmud Zisan/portfolio)
 
 ---
 
@@ -83,8 +83,8 @@ I am a **Full-Stack Developer** with a strong passion for building scalable and 
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=youbtech01&show_icons=true&theme=dark" alt="youbtech01" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youbtech01&show_icons=true&theme=dark&layout=compact" alt="youbtech01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Md Ridoan Mahmud Zisan&show_icons=true&theme=dark" alt="Md Ridoan Mahmud Zisan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Md Ridoan Mahmud Zisan&show_icons=true&theme=dark&layout=compact" alt="Md Ridoan Mahmud Zisan" />
 </p>
 
 ---
