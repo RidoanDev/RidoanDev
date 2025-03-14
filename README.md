@@ -62,6 +62,18 @@ I am a **Full-Stack Developer** with a strong passion for building scalable and 
 
 ---
 
+### 📜 Certifications:
+- **Advanced JavaScript**: [View Certificate](https://example.com/certificate-js)
+- **Cloud Computing with Google Cloud**: [View Certificate](https://example.com/certificate-gcp)
+- **Full-Stack Development**: [View Certificate](https://example.com/certificate-fullstack)
+
+---
+
+### 📄 Resume:
+- **Download My Resume**: [Resume PDF](https://example.com/resume.pdf)
+
+---
+
 ### 🏆 Achievements:
 - 🥇 **1st Place** in a local Hackathon for building a real-time chat application.
 - 🌟 **Open Source Contributor** to multiple repositories on GitHub.
