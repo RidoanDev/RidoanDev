@@ -10,8 +10,6 @@
 ### 👨‍💻 About Me:
 I'm a passionate developer and student with expertise in web application development. I combine my technical skills with volunteer work to create meaningful digital solutions.
 
-- 🌱 Currently preparing for **BCS (Bangladesh Civil Service)**
-- 👨‍🎓 Pursuing higher education in **Science**
 - 💼 Developing **web applications** for social causes
 - 📫 How to reach me: **ridoan.zisan@gmail.com**
 - ⚡ Fun fact: I've built apps to help blood donation organizations
