@@ -50,7 +50,7 @@ I'm a passionate developer and student with expertise in web application develop
 #### 3. **Personal Portfolio**
 - **Description**: Bilingual portfolio website
 - **Tech Stack**: React, TypeScript, Tailwind CSS
-- **Live Demo**: [My Portfolio](https://ridoanmahmud.netlify.app)
+- **Live Demo**: [My Portfolio](https://ridoan-zisan.netlify.app)
 
 ---
 
@@ -69,7 +69,7 @@ I'm a passionate developer and student with expertise in web application develop
 - Academic English Grammar
 - Basics of Management
 - Web Development Fundamentals
-- [View All Certificates](https://ridoanmahmud.netlify.app/#documents)
+- [View All Certificates](https://drive.google.com/drive/folders/11Xh6R9aCnzLIIe56tVZlmEvzuaUKA3xj)
 
 ---
 
