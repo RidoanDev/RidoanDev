@@ -41,7 +41,6 @@ I'm a passionate developer and student with expertise in web application develop
 - **Description**: Web application for blood donation management
 - **Tech Stack**: React, JavaScript, CSS
 - **Live Demo**: [BOBDO App](https://bobdo.netlify.app)
-- **GitHub Repo**: [BOBDO Repo](https://github.com/RidoanDev/bobdo)
 
 #### 2. **UniConverter App**
 - **Description**: Unit conversion tool for students
@@ -52,7 +51,6 @@ I'm a passionate developer and student with expertise in web application develop
 - **Description**: Bilingual portfolio website
 - **Tech Stack**: React, TypeScript, Tailwind CSS
 - **Live Demo**: [My Portfolio](https://ridoanmahmud.netlify.app)
-- **GitHub Repo**: [Portfolio Repo](https://github.com/RidoanDev/portfolio)
 
 ---
 
