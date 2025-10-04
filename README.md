@@ -1,15 +1,4 @@
-<!-- Animated Header with Wave GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="60" style="margin-bottom:10px;">
-  <br>
-  <span style="font-size:2.2em; font-weight:bold; color:#1DA1F2;">Hi, I'm Md Ridoan Mahmud Zisan!</span>
-  <br>
-  <span style="font-size:1.3em; color:#F7566C;">Full Stack Developer | Open Source Enthusiast</span>
-  <br>
-  <span style="font-size:1.1em; color:#333;">Bringing Ideas to Life with Code</span>
-  <br>
-  <span style="font-size:1.2em; color:#1DA1F2;">Let’s Create the Future Together! 🚀</span>
-</p>
+
 
 <!-- Animated Profile Photo Bounce -->
 <p align="center">
