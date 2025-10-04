@@ -8,28 +8,28 @@
 <!-- Social Icons with Animated Gifs -->
 <p align="center">
   <a href="https://www.google.com/search?q=Md+Ridoan+Mahmud+Zisan">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="32" /> <img src="https://img.shields.io/badge/Google-Search-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+ <img src="https://img.shields.io/badge/Google-Search-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/ridoan-zisan">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="32" /> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+ <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/RidoanDev">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32" /> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.facebook.com/rid0anzisan">
-    <img src="https://media.giphy.com/media/l3vR9OHHkUj4yP1yY/giphy.gif" width="32" /> <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+   <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="https://youtube.com/@ridoan-zisan">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="32" /> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+ <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="mailto:ridoan.zisan@gmail.com">
-    <img src="https://media.giphy.com/media/uW2hF2hzQGhpq/giphy.gif" width="32" /> <img src="https://img.shields.io/badge/Email-Mail-red?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Mail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://x.com/ridoan_zisan">
-    <img src="https://media.giphy.com/media/1mt4bQb9bTg6s/giphy.gif" width="32" /> <img src="https://img.shields.io/badge/X-(Twitter)-1da1f2?style=for-the-badge&logo=twitter&logoColor=white">
+ <img src="https://img.shields.io/badge/X-(Twitter)-1da1f2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://wa.me/8801712525910">
-    <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="32" /> <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+ <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
