@@ -1,53 +1,44 @@
-
-
 <!-- Animated Profile Photo Bounce -->
 <p align="center">
   <img src="https://ridoan-zisan.netlify.app/profile.jpg" alt="Md Ridoan Mahmud Zisan" width="150" style="border-radius:50%;box-shadow:0 4px 24px #efefef;">
 </p>
 
-<!-- Social Icons with Animated Gifs -->
+<h1 align="center">
+  Md Ridoan Mahmud Zisan
+</h1>
 <p align="center">
-  <a href="https://www.google.com/search?q=Md+Ridoan+Mahmud+Zisan">
- <img src="https://img.shields.io/badge/Google-Search-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ridoan-zisan">
- <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/RidoanDev">
- <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/rid0anzisan">
-   <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="https://youtube.com/@ridoan-zisan">
- <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="mailto:ridoan.zisan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Mail-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://x.com/ridoan_zisan">
- <img src="https://img.shields.io/badge/X-(Twitter)-1da1f2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://wa.me/8801712525910">
- <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
+  <b>Passionate Tech Learner | Social Impact Innovator | Web App & IT Solutions Developer | Founder & Youth Leader in Education</b><br>
+  <i>Empowering communities and driving change through technology, education, and social initiatives.</i>
+</p>
+
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://www.google.com/search?q=Md+Ridoan+Mahmud+Zisan"><img src="https://img.shields.io/badge/Google-Search-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ridoan-zisan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/RidoanDev"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/rid0anzisan"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://youtube.com/@ridoan-zisan"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="mailto:ridoan.zisan@gmail.com"><img src="https://img.shields.io/badge/Email-Mail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/ridoan_zisan"><img src="https://img.shields.io/badge/X-(Twitter)-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://wa.me/8801712525910"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
-</p>
+Hi, I'm **Md Ridoan Mahmud Zisan** from Bogura, Bangladesh.  
+A passionate lifelong learner and tech enthusiast, I specialize in developing web apps, IT solutions, and digital platforms for social impact. As a founder and youth leader, I channel my energy into education, innovation, and empowering communities.
 
-- 🏠 **Location:** Bogura, Bangladesh
-- 💼 **Roles:** Full Stack Developer | Open Source Contributor | Mentor
+- 💡 **Passionate About:** Technology, Social Innovation, Education, Community Building
+- 💼 **Role:** Full Stack Developer | IT Solutions Architect | Open Source Contributor
+- 🏆 **Founder/Leader:** Championing youth education and technology access
 - 🚀 **Tech Focus:** Cloud Native, DevOps, AI, React, TypeScript
 - 🌐 **Portfolio:** [ridoan-zisan.netlify.app](https://ridoan-zisan.netlify.app)
-- 🏆 **Public Repos:** 50+
-- ✉️ **Contact:** ridoan.zisan@gmail.com
+- 🔥 **Public Projects:** 50+ on GitHub ([Full List](https://github.com/RidoanDev?tab=repositories))
+- 🤝 **Let’s Build Together:** I love collaborating on meaningful projects and mentoring new developers.
 
+> “Code for a cause, innovate for impact, and lead with empathy.”
 ---
 
 ## ⚡ Tech Stack
