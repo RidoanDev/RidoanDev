@@ -1,7 +1,5 @@
 <!-- Animated Profile Photo Bounce -->
-<p align="center">
-  <img src="https://ridoan-zisan.netlify.app/profile.jpg" alt="Md Ridoan Mahmud Zisan" width="150" style="border-radius:50%;box-shadow:0 4px 24px #efefef;">
-</p>
+
 
 <h1 align="center">
   Md Ridoan Mahmud Zisan
