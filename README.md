@@ -83,7 +83,7 @@ A passionate lifelong learner and tech enthusiast, I specialize in developing we
   <tr>
     <td align="center">
       <a href="https://bobdo.vercel.app">
-        <img src="https://bobdo.vercel.app/images/bobdo-icon.png" width="120" alt="BOBDO"/><br/>
+        <img src="https://bobdo.vercel.app/images/bobdo.png" width="120" alt="BOBDO"/><br/>
         <b>BOBDO</b>
       </a>
     </td>
