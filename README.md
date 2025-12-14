@@ -1,25 +1,26 @@
-<!-- HEADER SECTION: FLOATING AVATAR & GRADIENT NAME -->
+<!-- HEADER SECTION -->
 <div align="center">
-  <br>
-  <a href="https://github.com/RidoanDev">
-    <img src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/assets/bounce-profile.gif" width="180" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0px 0px 40px #8A2BE2; animation: float 3s ease-in-out infinite;" alt="Floating Profile">
-  </a>
+  <img src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/assets/bounce-profile.gif" width="160" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0px 0px 25px #8A2BE2;" alt="Profile Picture">
   
-  <br>
+  <br/>
 
-  <!-- Gradient Name Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=800&lines=Md+Ridoan+Mahmud+Zisan;Architecting+Digital+Dreams;Building+Impactful+Tech" alt="Typing Name" />
-
-  <!-- Sub-Title Typing Effect -->
+  <!-- Name with Gradient Font Effect (Image based to ensure rendering) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Social+Change+Maker+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%90;Tech+Community+Leader+%F0%9F%92%A1" alt="Sub Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&lines=Md+Ridoan+Mahmud+Zisan;Architecting+Digital+Solutions;Building+for+Social+Impact" alt="Typing Name" />
+  </a>
+
+  <br/>
+
+  <!-- Sub-Title Typing -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Social+Change+Maker+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%90" alt="Sub Title" />
   </a>
 </div>
 
-<!-- MODERN SOCIAL BADGES -->
+<!-- SOCIAL LINKS & VISITOR COUNT -->
 <div align="center">
   <a href="https://github.com/RidoanDev">
-    <img src="https://komarev.com/ghpvc/?username=RidoanDev&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=RidoanDev&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
   </a>
   <br><br>
   
@@ -34,100 +35,94 @@
 
 <!-- ABOUT ME SECTION -->
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
-  <h3><b>Who Am I?</b></h3>
-  <p width="70%">
-    <i>"A <b>Visionary Developer</b> from Bogura, blending code with empathy to build the future."</i>
-  </p>
+  <img src="https://media.giphy.com/media/L1R1TVI2uPcdFk4xV0/giphy.gif" width="30px">
+  <h3><b>Digital Artisan & Problem Solver</b></h3>
 </div>
 
 <div align="center">
-  
-| 🔭 **Current Focus** | 🌱 **Learning Goal** | ⚡ **Superpower** |
-| :--- | :--- | :--- |
-| **Scalable Web Apps** | **Cloud Native & AI** | **Debugging while sleeping** |
-
+  <table align="center">
+    <tr>
+      <td>
+        👋 <b>Hi, I'm Ridoan!</b> A developer from <b>Bogura, Bangladesh</b> combining code with creativity.<br>
+        🔭 <b>Building:</b> Scalable Web Apps & EdTech Platforms.<br>
+        🌱 <b>Learning:</b> Cloud Native, DevOps & Advanced AI.<br>
+        🤝 <b>Goal:</b> To empower youth through technology.
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- TECH STACK ARSENAL -->
-<h2 align="center">⚡ <b>My Technical Arsenal</b></h2>
+<!-- TECH STACK -->
+<h2 align="center">⚡ <b>Tech Stack Arsenal</b></h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,firebase,mysql,html,css,tailwind,bootstrap,linux,git,github,vscode,figma,postman&perline=12&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
 
-<!-- 🔥 ADVANCED CONTRIBUTION SECTION (The Major Upgrade) 🔥 -->
+<!-- 🔥 IMPROVED CONTRIBUTION SECTION 🔥 -->
 <h2 align="center">📊 <b>Contribution Intelligence</b></h2>
 
-<!-- 1. 3D TROPHIES -->
+<!-- 1. TROPHIES -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=RidoanDev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
-
 <br>
 
-<!-- 2. HUD DASHBOARD STATS (New Feature) -->
+<!-- 2. DETAILED STATS & STREAK -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00FFFF" height="180" />
+</div>
+<br>
+
+<!-- 3. LANGUAGE & PRODUCTIVITY GRAPHS (Reliable Visuals) -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00FFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="160" />
 </div>
 
 <br>
 
-<!-- 3. ISOMETRIC COMMIT CALENDAR (3D City Block) -->
+<!-- 4. ACTIVITY WAVE GRAPH -->
 <div align="center">
-  <h3>🧱 <b>3D Contribution City</b></h3>
-  <a href="https://github.com/RidoanDev">
-    <img src="https://github-readme-isometric-calendar.vercel.app/?user=RidoanDev&theme=tokyonight&bg_color=0D1117&color=8A2BE2" alt="Isometric Calendar">
-  </a>
-</div>
-
-<br>
-
-<!-- 4. SNAKE GAME ANIMATION -->
-<div align="center">
-  <img src="https://github.com/RidoanDev/RidoanDev/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&bg_color=0D1117&color=8A2BE2&line=00FFFF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
 
 <!-- PROJECT SHOWCASE GRID -->
-<h2 align="center">🚀 <b>Innovation Showcase</b></h2>
+<h2 align="center">🚀 <b>Featured Projects</b></h2>
 
 <div align="center">
 <table align="center" style="border: none;">
   <tr>
-    <td align="center" width="25%"><a href="https://ridoan-zisan.netlify.app"><img src="https://ridoan-zisan.netlify.app/profile.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>✨ Portfolio</b></a></td>
-    <td align="center" width="25%"><a href="https://dhunat.netlify.app"><img src="https://i.postimg.cc/KvXCcTcg/dhunathub.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🏙️ DhunatHub</b></a></td>
-    <td align="center" width="25%"><a href="https://netlistore.vercel.app"><img src="https://i.postimg.cc/tgmmKZmJ/netlistore.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🛍️ Netlistore</b></a></td>
-    <td align="center" width="25%"><a href="https://zupramart.netlify.app"><img src="https://zupramart.netlify.app/ZupraMart.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🛒 ZupraMart</b></a></td>
+    <td align="center" width="25%"><a href="https://ridoan-zisan.netlify.app"><img src="https://ridoan-zisan.netlify.app/profile.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>✨ Portfolio</b></a></td>
+    <td align="center" width="25%"><a href="https://dhunat.netlify.app"><img src="https://i.postimg.cc/KvXCcTcg/dhunathub.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🏙️ DhunatHub</b></a></td>
+    <td align="center" width="25%"><a href="https://netlistore.vercel.app"><img src="https://i.postimg.cc/tgmmKZmJ/netlistore.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🛍️ Netlistore</b></a></td>
+    <td align="center" width="25%"><a href="https://zupramart.netlify.app"><img src="https://zupramart.netlify.app/ZupraMart.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🛒 ZupraMart</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://bobdo.vercel.app"><img src="https://bobdo.vercel.app/bobdo.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🩸 BOBDO</b></a></td>
-    <td align="center"><a href="https://hscian.netlify.app"><img src="https://i.postimg.cc/BQP7QDjk/HSCian-20250725-225238-0000.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🎓 HSCian</b></a></td>
-    <td align="center"><a href="https://zpad.netlify.app"><img src="https://i.postimg.cc/vBkkVgWk/zpad.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>📝 Zpad</b></a></td>
-    <td align="center"><a href="https://youthhope-bd.netlify.app"><img src="https://i.postimg.cc/rskLpzPD/IMG-20250916-021919.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🤝 YouthHopeBD</b></a></td>
+    <td align="center"><a href="https://bobdo.vercel.app"><img src="https://bobdo.vercel.app/bobdo.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🩸 BOBDO</b></a></td>
+    <td align="center"><a href="https://hscian.netlify.app"><img src="https://i.postimg.cc/BQP7QDjk/HSCian-20250725-225238-0000.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🎓 HSCian</b></a></td>
+    <td align="center"><a href="https://zpad.netlify.app"><img src="https://i.postimg.cc/vBkkVgWk/zpad.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>📝 Zpad</b></a></td>
+    <td align="center"><a href="https://youthhope-bd.netlify.app"><img src="https://i.postimg.cc/rskLpzPD/IMG-20250916-021919.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🤝 YouthHopeBD</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://uniconverter.netlify.app"><img src="https://i.postimg.cc/qqKYXJwR/uniconverter.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🔄 UniConverter</b></a></td>
-    <td align="center"><a href="https://snake-i.netlify.app"><img src="https://i.postimg.cc/Jhh2YcxS/snakegame.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🐍 SnakeGame</b></a></td>
-    <td align="center"><a href="https://xox-i.netlify.app"><img src="https://i.postimg.cc/g2m58PZz/tiktaktoe.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>❌⭕ XOX</b></a></td>
-    <td align="center"><a href="https://typing-i.netlify.app"><img src="https://i.postimg.cc/fRCPvgcx/typingtest.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>⌨️ TypingTest</b></a></td>
+    <td align="center"><a href="https://uniconverter.netlify.app"><img src="https://i.postimg.cc/qqKYXJwR/uniconverter.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🔄 UniConverter</b></a></td>
+    <td align="center"><a href="https://snake-i.netlify.app"><img src="https://i.postimg.cc/Jhh2YcxS/snakegame.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🐍 SnakeGame</b></a></td>
+    <td align="center"><a href="https://xox-i.netlify.app"><img src="https://i.postimg.cc/g2m58PZz/tiktaktoe.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>❌⭕ XOX</b></a></td>
+    <td align="center"><a href="https://typing-i.netlify.app"><img src="https://i.postimg.cc/fRCPvgcx/typingtest.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>⌨️ TypingTest</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://toolhub-i.netlify.app"><img src="https://i.postimg.cc/vZyRhVpd/toolhub.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🛠️ ToolHub</b></a></td>
-    <td align="center"><a href="https://thetacode.netlify.app"><img src="https://i.postimg.cc/kMRkdsCm/thetacode.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>💻 ThetaCode</b></a></td>
-    <td align="center"><a href="https://mindgame-i.netlify.app"><img src="https://i.postimg.cc/qvxP57T6/memorygame.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 10px #8A2BE2;"/><br><b>🧠 SoundMemory</b></a></td>
+    <td align="center"><a href="https://toolhub-i.netlify.app"><img src="https://i.postimg.cc/vZyRhVpd/toolhub.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🛠️ ToolHub</b></a></td>
+    <td align="center"><a href="https://thetacode.netlify.app"><img src="https://i.postimg.cc/kMRkdsCm/thetacode.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>💻 ThetaCode</b></a></td>
+    <td align="center"><a href="https://mindgame-i.netlify.app"><img src="https://i.postimg.cc/qvxP57T6/memorygame.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🧠 SoundMemory</b></a></td>
     <td align="center"><a href="https://github.com/RidoanDev?tab=repositories"><img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="100%" style="border-radius:10px; opacity: 0.8;"/><br><b>👀 View All 50+</b></a></td>
   </tr>
 </table>
@@ -168,13 +163,30 @@
 
 ---
 
-<!-- FOOTER -->
+<!-- ENHANCED FOOTER SECTION -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
+  <!-- Random Dev Quote (Changes automatically) -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+  
+  <br><br>
+
+  <!-- Animated Footer Illustration -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=30&animation=fadeIn&fontAlignY=40" width="100%">
+  
   <br>
-  <h3><i>"Code for a cause, innovate for impact, and lead with empathy."</i></h3>
-  <br>
-  <a href="https://ridoan-zisan.netlify.app">
-    <img src="https://img.shields.io/badge/Connect_With_Me-Visit_Portfolio-success?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
+
+  <!-- Connect Links -->
+  <p>
+    <a href="https://ridoan-zisan.netlify.app">
+      <img src="https://img.shields.io/badge/Website-Portfolio-success?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:ridoan.zisan@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-Email_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+  
+  <p style="font-size: 12px; color: #555;">
+    © 2025 Md Ridoan Mahmud Zisan. All Rights Reserved.
+  </p>
 </div>
