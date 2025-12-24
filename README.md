@@ -6,7 +6,7 @@
 
   <!-- Name with Gradient Font Effect (Image based to ensure rendering) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&lines=Md+Ridoan+Mahmud+Zisan;Architecting+Digital+Solutions;Building+for+Social+Impact" alt="Typing Name" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&lines=Md+Ridoan+Mahmud+Zisan;" alt="Typing Name" />
   </a>
 
   <br/>
@@ -123,7 +123,7 @@
     <td align="center"><a href="https://toolhub-i.netlify.app"><img src="https://i.postimg.cc/vZyRhVpd/toolhub.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🛠️ ToolHub</b></a></td>
     <td align="center"><a href="https://thetacode.netlify.app"><img src="https://i.postimg.cc/kMRkdsCm/thetacode.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>💻 ThetaCode</b></a></td>
     <td align="center"><a href="https://mindgame-i.netlify.app"><img src="https://i.postimg.cc/qvxP57T6/memorygame.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🧠 SoundMemory</b></a></td>
-    <td align="center"><a href="https://github.com/RidoanDev?tab=repositories"><img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="100%" style="border-radius:10px; opacity: 0.8;"/><br><b>👀 View All 50+</b></a></td>
+    <td align="center"><a href="https://ridoan-zisan.netlify.app/blog"><img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="100%" style="border-radius:10px; opacity: 0.8;"/><br><b>👀 View All 50+</b></a></td>
   </tr>
 </table>
 </div>
