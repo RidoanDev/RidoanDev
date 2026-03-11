@@ -10,7 +10,6 @@
 <!-- PROFILE IMAGE WITH GLOW -->
 <img src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/assets/bounce-profile.gif" width="140" style="border-radius: 50%;"/>
 
-<br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <a href="https://github.com/RidoanDev">
@@ -353,11 +352,6 @@ Available   : Open to collaborate & freelance opportunities
 <br/>
 
 
-
-<br/>
-
----
-
 <!-- FOOTER -->
 <div align="center">
 
@@ -380,9 +374,3 @@ Available   : Open to collaborate & freelance opportunities
 <br/><br/>
 
 <sub>⚡ Crafted with passion by <b>Md Ridoan Mahmud Zisan</b> · Bogura, Bangladesh 🇧🇩 · © 2025</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Code-7c3aed?style=flat-square&labelColor=0d1117"/>
-
-</div>
