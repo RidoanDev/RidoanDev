@@ -1,192 +1,417 @@
-<!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/assets/bounce-profile.gif" width="160" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0px 0px 25px #8A2BE2;" alt="Profile Picture">
-  
-  <br/>
 
-  <!-- Name with Gradient Font Effect (Image based to ensure rendering) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&lines=Md+Ridoan+Mahmud+Zisan;" alt="Typing Name" />
-  </a>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a0533,100:0d1b2a&height=280&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=42&fontColor=e0d7ff&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20Social%20Change%20Maker%20%E2%80%A2%20Open%20Source%20Contributor&descSize=16&descAlignY=65&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
-  <br/>
-
-  <!-- Sub-Title Typing -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=18&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Social+Change+Maker+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%90" alt="Sub Title" />
-  </a>
 </div>
 
-<!-- SOCIAL LINKS & VISITOR COUNT -->
 <div align="center">
-  <a href="https://github.com/RidoanDev">
-    <img src="https://komarev.com/ghpvc/?username=RidoanDev&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
-  </a>
-  <br><br>
-  
-  <a href="https://linkedin.com/in/ridoan-zisan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/RidoanDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://facebook.com/rid0anzisan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://youtube.com/@ridoan-zisan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:ridoan.zisan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<!-- PROFILE IMAGE WITH GLOW -->
+<img src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/assets/bounce-profile.gif" width="140" style="border-radius: 50%;"/>
+
+<br/>
+
+<!-- TYPING ANIMATION - NAME -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1500&color=A78BFA&background=00000000&center=true&vCenter=true&width=650&lines=%E2%9C%A6+Md+Ridoan+Mahmud+Zisan+%E2%9C%A6" alt="Name" />
+</a>
+
+<!-- TYPING ANIMATION - ROLES -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=550&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Social+Change+Maker;%F0%9F%8C%90+Open+Source+Contributor;%F0%9F%8F%97%EF%B8%8F+EdTech+Builder" alt="Roles" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<a href="https://github.com/RidoanDev">
+  <img src="https://komarev.com/ghpvc/?username=RidoanDev&label=👁️%20Profile%20Views&color=7c3aed&style=flat-square&labelColor=0d1117" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/github/followers/RidoanDev?label=Followers&style=flat-square&color=22d3ee&labelColor=0d1117&logo=github" />
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://linkedin.com/in/ridoan-zisan">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/RidoanDev">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://facebook.com/rid0anzisan">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@ridoan-zisan">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="mailto:ridoan.zisan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://ridoan-zisan.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
 </div>
+
+<br/>
 
 ---
 
 <!-- ABOUT ME SECTION -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVI2uPcdFk4xV0/giphy.gif" width="30px">
-  <h3><b>Digital Artisan & Problem Solver</b></h3>
+  <h2>🧬 <b>About Me</b></h2>
 </div>
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        👋 <b>Hi, I'm Ridoan!</b> A developer from <b>Bogura, Bangladesh</b> combining code with creativity.<br>
-        🔭 <b>Building:</b> Scalable Web Apps & EdTech Platforms.<br>
-        🌱 <b>Learning:</b> Cloud Native, DevOps & Advanced AI.<br>
-        🤝 <b>Goal:</b> To empower youth through technology.
-      </td>
-    </tr>
-  </table>
-</div>
+```yaml
+Name        : Md Ridoan Mahmud Zisan
+Location    : Bogura, Bangladesh 🇧🇩
+Role        : Full Stack Developer & Social Change Maker
+Focus       : Scalable Web Apps · EdTech Platforms · Open Source
+Learning    : Cloud Native · DevOps · Advanced AI / ML
+Mission     : Empower youth through accessible technology
+Available   : Open to collaborate & freelance opportunities
+```
 
-<br>
+<br/>
+
+---
 
 <!-- TECH STACK -->
-<h2 align="center">⚡ <b>Tech Stack Arsenal</b></h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,firebase,mysql,html,css,tailwind,bootstrap,linux,git,github,vscode,figma,postman&perline=12&theme=dark" alt="Tech Stack" />
+  <h2>⚡ Tech Stack Arsenal</h2>
+  <p><i>Technologies I work with every day</i></p>
 </div>
+
+<div align="center">
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-<!-- 🔥 IMPROVED CONTRIBUTION SECTION 🔥 -->
-<h2 align="center">📊 <b>Contribution Intelligence</b></h2>
+<!-- GITHUB STATS -->
+<div align="center">
+  <h2>📊 Contribution Intelligence</h2>
+</div>
 
-<!-- 1. TROPHIES -->
+<!-- TROPHIES -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RidoanDev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RidoanDev&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="Trophies"/>
   </a>
 </div>
-<br>
 
-<!-- 2. DETAILED STATS & STREAK -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00FFFF" height="180" />
-</div>
-<br>
+<br/>
 
-<!-- 3. LANGUAGE & PRODUCTIVITY GRAPHS (Reliable Visuals) -->
+<!-- STATS ROW -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" alt="Profile Details" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=e0d7ff&border_radius=12" height="175"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=22d3ee&currStreakLabel=A78BFA&sideLabels=A78BFA&border_radius=12" height="175"/>
 </div>
 
-<br>
+<br/>
 
-<!-- 4. ACTIVITY WAVE GRAPH -->
+<!-- LANGUAGES + SUMMARY -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&bg_color=0D1117&color=8A2BE2&line=00FFFF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=e0d7ff&langs_count=10&border_radius=12" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RidoanDev&theme=tokyonight&utcOffset=6" height="160"/>
 </div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&bg_color=0D1117&color=A78BFA&line=22D3EE&point=ffffff&hide_border=true&area=true&area_color=7c3aed&radius=12" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
 
 ---
 
-<!-- PROJECT SHOWCASE GRID -->
-<h2 align="center">🚀 <b>Featured Projects</b></h2>
+<!-- FEATURED PROJECTS -->
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+  <p><i>A selection of things I've built — from EdTech to eCommerce to social impact</i></p>
+</div>
 
 <div align="center">
-<table align="center" style="border: none;">
+<table>
   <tr>
-    <td align="center" width="25%"><a href="https://ridoan-zisan.netlify.app"><img src="https://ridoan-zisan.netlify.app/profile.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>✨ Portfolio</b></a></td>
-    <td align="center" width="25%"><a href="https://dhunat.netlify.app"><img src="https://i.postimg.cc/KvXCcTcg/dhunathub.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🏙️ DhunatHub</b></a></td>
-    <td align="center" width="25%"><a href="https://netlistore.vercel.app"><img src="https://i.postimg.cc/tgmmKZmJ/netlistore.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🛍️ Netlistore</b></a></td>
-    <td align="center" width="25%"><a href="https://zupramart.netlify.app"><img src="https://zupramart.netlify.app/ZupraMart.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🛒 ZupraMart</b></a></td>
+    <td align="center" width="25%">
+      <a href="https://ridoan-zisan.netlify.app">
+        <img src="https://ridoan-zisan.netlify.app/profile.jpg" width="100%" style="border-radius:10px;"/><br/>
+        <b>✨ Portfolio</b>
+      </a><br/>
+      <sub>Personal developer portfolio</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://dhunat.netlify.app">
+        <img src="https://i.postimg.cc/KvXCcTcg/dhunathub.png" width="100%" style="border-radius:10px;"/><br/>
+        <b>🏙️ DhunatHub</b>
+      </a><br/>
+      <sub>Local community platform</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://netlistore.vercel.app">
+        <img src="https://i.postimg.cc/tgmmKZmJ/netlistore.png" width="100%" style="border-radius:10px;"/><br/>
+        <b>🛍️ Netlistore</b>
+      </a><br/>
+      <sub>E-commerce platform</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://zupramart.netlify.app">
+        <img src="https://zupramart.netlify.app/ZupraMart.jpg" width="100%" style="border-radius:10px;"/><br/>
+        <b>🛒 ZupraMart</b>
+      </a><br/>
+      <sub>Online marketplace</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://bobdo.vercel.app"><img src="https://bobdo.vercel.app/bobdo.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🩸 BOBDO</b></a></td>
-    <td align="center"><a href="https://hscian.netlify.app"><img src="https://i.postimg.cc/BQP7QDjk/HSCian-20250725-225238-0000.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🎓 HSCian</b></a></td>
-    <td align="center"><a href="https://zpad.netlify.app"><img src="https://i.postimg.cc/vBkkVgWk/zpad.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>📝 Zpad</b></a></td>
-    <td align="center"><a href="https://youthhope-bd.netlify.app"><img src="https://i.postimg.cc/rskLpzPD/IMG-20250916-021919.jpg" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🤝 YouthHopeBD</b></a></td>
+    <td align="center">
+      <a href="https://bobdo.vercel.app">
+        <img src="https://bobdo.vercel.app/bobdo.jpg" width="100%" style="border-radius:10px;"/><br/>
+        <b>🩸 BOBDO</b>
+      </a><br/>
+      <sub>Blood donation org</sub>
+    </td>
+    <td align="center">
+      <a href="https://hscian.netlify.app">
+        <img src="https://i.postimg.cc/BQP7QDjk/HSCian-20250725-225238-0000.png" width="100%" style="border-radius:10px;"/><br/>
+        <b>🎓 HSCian</b>
+      </a><br/>
+      <sub>EdTech for students</sub>
+    </td>
+    <td align="center">
+      <a href="https://youthhope-bd.netlify.app">
+        <img src="https://i.postimg.cc/rskLpzPD/IMG-20250916-021919.jpg" width="100%" style="border-radius:10px;"/><br/>
+        <b>🤝 YouthHopeBD</b>
+      </a><br/>
+      <sub>Youth empowerment NGO</sub>
+    </td>
+    <td align="center">
+      <a href="https://zpad.netlify.app">
+        <img src="https://i.postimg.cc/vBkkVgWk/zpad.png" width="100%" style="border-radius:10px;"/><br/>
+        <b>📝 Zpad</b>
+      </a><br/>
+      <sub>Online notepad app</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://uniconverter.netlify.app"><img src="https://i.postimg.cc/qqKYXJwR/uniconverter.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🔄 UniConverter</b></a></td>
-    <td align="center"><a href="https://snake-i.netlify.app"><img src="https://i.postimg.cc/Jhh2YcxS/snakegame.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🐍 SnakeGame</b></a></td>
-    <td align="center"><a href="https://xox-i.netlify.app"><img src="https://i.postimg.cc/g2m58PZz/tiktaktoe.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>❌⭕ XOX</b></a></td>
-    <td align="center"><a href="https://typing-i.netlify.app"><img src="https://i.postimg.cc/fRCPvgcx/typingtest.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>⌨️ TypingTest</b></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://toolhub-i.netlify.app"><img src="https://i.postimg.cc/vZyRhVpd/toolhub.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🛠️ ToolHub</b></a></td>
-    <td align="center"><a href="https://thetacode.netlify.app"><img src="https://i.postimg.cc/kMRkdsCm/thetacode.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>💻 ThetaCode</b></a></td>
-    <td align="center"><a href="https://mindgame-i.netlify.app"><img src="https://i.postimg.cc/qvxP57T6/memorygame.png" width="100%" style="border-radius:10px; box-shadow: 0px 4px 10px #8A2BE2;"/><br><b>🧠 SoundMemory</b></a></td>
-    <td align="center"><a href="https://ridoan-zisan.netlify.app/blog"><img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="100%" style="border-radius:10px; opacity: 0.8;"/><br><b>👀 View All 50+</b></a></td>
+    <td align="center">
+      <a href="https://toolhub-i.netlify.app">
+        <img src="https://i.postimg.cc/vZyRhVpd/toolhub.png" width="100%" style="border-radius:10px;"/><br/>
+        <b>🛠️ ToolHub</b>
+      </a><br/>
+      <sub>Dev utilities suite</sub>
+    </td>
+    <td align="center">
+      <a href="https://thetacode.netlify.app">
+        <img src="https://i.postimg.cc/kMRkdsCm/thetacode.png" width="100%" style="border-radius:10px;"/><br/>
+        <b>💻 ThetaCode</b>
+      </a><br/>
+      <sub>Coding community</sub>
+    </td>
+    <td align="center">
+      <a href="https://uniconverter.netlify.app">
+        <img src="https://i.postimg.cc/qqKYXJwR/uniconverter.png" width="100%" style="border-radius:10px;"/><br/>
+        <b>🔄 UniConverter</b>
+      </a><br/>
+      <sub>Universal file converter</sub>
+    </td>
+    <td align="center">
+      <a href="https://ridoan-zisan.netlify.app/blog">
+        <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="100%" style="border-radius:10px;"/><br/>
+        <b>👀 View All 50+</b>
+      </a><br/>
+      <sub>See full portfolio</sub>
+    </td>
   </tr>
 </table>
 </div>
 
+<br/>
+
 ---
 
-<!-- CERTIFICATES SECTION -->
-<h2 align="center">🏅 <b>Top Certifications</b></h2>
+<!-- CERTIFICATIONS -->
 <div align="center">
-<table style="border: none;">
-  <tr>
-    <td align="center"><img src="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png" width="100" style="border-radius:8px;"/><br/>Google IT Support</td>
-    <td align="center"><img src="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png" width="100" style="border-radius:8px;"/><br/>Cyber Security</td>
-    <td align="center"><img src="https://i.postimg.cc/XvKr2JBs/digital-marketing.png" width="100" style="border-radius:8px;"/><br/>Digital Marketing</td>
-    <td align="center"><img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="100" style="border-radius:8px;"/><br/>Data Science AI</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="100" style="border-radius:8px;"/><br/>Intro to AI</td>
-    <td align="center"><img src="https://i.postimg.cc/7YB27FPb/machine-learning.png" width="100" style="border-radius:8px;"/><br/>Machine Learning</td>
-    <td align="center"><img src="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png" width="100" style="border-radius:8px;"/><br/>Web Dev</td>
-    <td align="center"><img src="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg" width="100" style="border-radius:8px;"/><br/>Intro to Python</td>
-  </tr>
-    <tr>
-    <td align="center"><img src="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg" width="100" style="border-radius:8px;"/><br/>Gender & Climate</td>
-    <td align="center"><img src="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg" width="100" style="border-radius:8px;"/><br/>Net Zero 101</td>
-    <td align="center"><img src="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg" width="100" style="border-radius:8px;"/><br/>Sustainable Dev</td>
-    <td align="center"><img src="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg" width="100" style="border-radius:8px;"/><br/>Climate Process</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="100" style="border-radius:8px;"/><br/>BOBDO Founder</td>
-    <td align="center"><img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="100" style="border-radius:8px;"/><br/>Math Olympiad</td>
-    <td align="center"><img src="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png" width="100" style="border-radius:8px;"/><br/>ICT Olympiad</td>
-    <td align="center"><img src="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg" width="100" style="border-radius:8px;"/><br/>GK Olympiad</td>
-  </tr>
-</table>
+  <h2>🏅 Certifications & Achievements</h2>
+  <p><i>Continuous learning across tech, sustainability & leadership</i></p>
 </div>
 
+<div align="center">
+
+**💻 Technology & Development**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Google IT Support</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Cyber Security</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Web Development</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Data Science AI</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Intro to AI</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/7YB27FPb/machine-learning.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Machine Learning</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/XvKr2JBs/digital-marketing.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Digital Marketing</b></sub>
+    </td>
+  </tr>
+</table>
+
+**🌍 Sustainability & Climate**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Gender & Climate</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Net Zero 101</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Sustainable Dev</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>UN Climate Process</b></sub>
+    </td>
+  </tr>
+</table>
+
+**🏆 Competitions & Leadership**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>BOBDO Founder</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>Math Olympiad</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>ICT Olympiad</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg" width="90" style="border-radius:8px;"/>
+      <br/><sub><b>GK Olympiad</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
 ---
 
-<!-- ENHANCED FOOTER SECTION -->
+<!-- QUOTE -->
 <div align="center">
-  
-  <!-- Random Dev Quote (Changes automatically) -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
-  
-  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
 
-  <!-- Animated Footer Illustration -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=30&animation=fadeIn&fontAlignY=40" width="100%">
-  
-  <br>
+<br/>
 
-  <!-- Connect Links -->
-  <p>
-    <a href="https://ridoan-zisan.netlify.app">
-      <img src="https://img.shields.io/badge/Website-Portfolio-success?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-    <a href="mailto:ridoan.zisan@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-  
-  <p style="font-size: 12px; color: #555;">
-    © 2025 Md Ridoan Mahmud Zisan. All Rights Reserved.
-  </p>
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0e7490,100:1e1b4b&height=160&section=footer&text=Let%27s%20Build%20Something%20Amazing!&fontSize=28&fontColor=e0d7ff&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+<br/>
+
+<a href="https://ridoan-zisan.netlify.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="mailto:ridoan.zisan@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email-Hire_Me-22d3ee?style=for-the-badge&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ridoan-zisan">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<sub>⚡ Crafted with passion by <b>Md Ridoan Mahmud Zisan</b> · Bogura, Bangladesh 🇧🇩 · © 2025</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Code-7c3aed?style=flat-square&labelColor=0d1117"/>
+
 </div>
