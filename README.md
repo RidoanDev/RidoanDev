@@ -371,7 +371,7 @@
   <tr>
     <td align="center">
       <img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="90" style="border-radius:8px;"/>
-      <br/><sub><b>🩸 BOBDO Founder</b></sub>
+      <br/><sub><b>🩸 BOBDO App Developerr</b></sub>
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="90" style="border-radius:8px;"/>
@@ -394,48 +394,6 @@
 
 ---
 
-<!-- CURRENT FOCUS / WHAT I'M WORKING ON -->
-<div align="center">
-  <h2>🔭 Currently Working On</h2>
-</div>
-
-<div align="center">
-
-| 🚀 Project | 📌 Status | 🔗 Tech |
-|:---|:---:|:---|
-| 🎓 HSCian — EdTech Platform | 🟢 Active | React · Node.js · MongoDB |
-| 🤝 YouthHopeBD NGO Portal | 🟡 Improving | Next.js · Firebase |
-| 🔄 UniConverter Suite | 🟢 Active | JavaScript · APIs |
-| 🛒 ZupraMart Marketplace | 🔵 v2 Planning | React · Express · MySQL |
-| 📝 Zpad Notes App | 🟢 Active | Vanilla JS · LocalStorage |
-
-</div>
-
-<br/>
-
----
-
-<!-- GITHUB STREAK QUOTE / RANDOM DEV QUOTE -->
-<div align="center">
-  <h2>💬 Dev Quote of the Day</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
-</div>
-
-<br/>
-
----
-
-<!-- SPOTIFY NOW PLAYING (BONUS) -->
-<div align="center">
-  <h2>🎵 Now Playing</h2>
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=7c3aed" width="380" alt="Spotify Now Playing"/>
-  </a>
-</div>
-
-<br/>
-
----
 
 <!-- OPEN SOURCE CONTRIBUTIONS -->
 <div align="center">
@@ -460,24 +418,6 @@
 
 <br/>
 
----
-
-<!-- SUPPORT -->
-<div align="center">
-  <h2>☕ Support My Work</h2>
-  <p><i>If my projects help you, consider buying me a coffee!</i></p>
-  <a href="https://www.buymeacoffee.com/ridoanzisan">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sponsors/RidoanDev">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-
----
 
 <!-- CONNECT SECTION -->
 <div align="center">
