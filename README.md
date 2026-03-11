@@ -128,15 +128,6 @@
   <h2>📊 GitHub Intelligence</h2>
 </div>
 
-<!-- TROPHIES -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RidoanDev&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="Trophies"/>
-  </a>
-</div>
-
-<br/>
-
 <!-- STATS ROW -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=e0d7ff&border_radius=12" height="175"/>
@@ -158,20 +149,6 @@
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&bg_color=0D1117&color=A78BFA&line=22D3EE&point=ffffff&hide_border=true&area=true&area_color=7c3aed&radius=12" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
----
-
-<!-- WAKATIME STATS (BONUS) -->
-<div align="center">
-  <h2>⏱️ Weekly Coding Stats</h2>
-  <p><i>Powered by WakaTime — real dev hours, no cap 🔥</i></p>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RidoanDev&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=e0d7ff&border_radius=12" width="60%"/>
 </div>
 
 <br/>
