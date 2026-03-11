@@ -23,8 +23,6 @@
 <a href="https://github.com/RidoanDev">
   <img src="https://komarev.com/ghpvc/?username=RidoanDev&label=👁️%20Profile%20Views&color=7c3aed&style=flat-square&labelColor=0d1117" />
 </a>
-&nbsp;
-<img src="https://img.shields.io/github/followers/RidoanDev?label=Followers&style=flat-square&color=22d3ee&labelColor=0d1117&logo=github" />
 
 <br/><br/>
 
@@ -72,20 +70,6 @@
 ║  Available   : ✅ Open to collaborate & freelance            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-<br/>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <h2>🐍 My Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-snake.svg" width="100%"/>
-  </picture>
-</div>
 
 <br/>
 
@@ -535,9 +519,3 @@
   <br/><br/>
 
   <sub>⚡ Crafted with passion by <b>Md Ridoan Mahmud Zisan</b> · Bogura, Bangladesh 🇧🇩 · © 2025</sub>
-
-  <br/>
-
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RidoanDev.RidoanDev&left_color=7c3aed&right_color=22d3ee)
-
-</div>
