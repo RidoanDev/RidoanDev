@@ -12,13 +12,6 @@
 
 <br/>
 
-<!-- TYPING ANIMATION - ROLES -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=550&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Social+Change+Maker;%F0%9F%8C%90+Open+Source+Contributor;%F0%9F%8F%97%EF%B8%8F+EdTech+Builder" alt="Roles" />
-</a>
-
-<br/>
-
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <a href="https://github.com/RidoanDev">
   <img src="https://komarev.com/ghpvc/?username=RidoanDev&label=👁️%20Profile%20Views&color=7c3aed&style=flat-square&labelColor=0d1117" />
@@ -360,15 +353,6 @@ Available   : Open to collaborate & freelance opportunities
 <br/>
 
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
-  <h2>🐍 Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</div>
 
 <br/>
 
