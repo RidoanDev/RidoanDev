@@ -69,7 +69,7 @@ const RidoanZisan = {
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidoanDev&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" />
 
@@ -170,34 +170,134 @@ const RidoanZisan = {
 
 ### 💻 Technology & Development
 
-| Certificate | Issuer |
-|-------------|--------|
-| [Google IT Support](https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png) | Google |
-| [Foundations of Cyber Security](https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png) | Google |
-| [Complete Web Development](https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png) | — |
-| [Introduction to Python](https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg) | — |
-| [Python for Data Science & AI](https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png) | IBM |
-| [Introduction to Artificial Intelligence](https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png) | — |
-| [Machine Learning](https://i.postimg.cc/7YB27FPb/machine-learning.png) | — |
-| [Digital Marketing](https://i.postimg.cc/XvKr2JBs/digital-marketing.png) | — |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png">
+        <img src="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png" width="180" alt="Google IT Support" /><br/>
+        <b>Google IT Support</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png">
+        <img src="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png" width="180" alt="Foundations of Cyber Security" /><br/>
+        <b>Foundations of Cyber Security</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png">
+        <img src="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png" width="180" alt="Complete Web Development" /><br/>
+        <b>Complete Web Development</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg">
+        <img src="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg" width="180" alt="Introduction to Python" /><br/>
+        <b>Introduction to Python</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png">
+        <img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="180" alt="Python for Data Science & AI" /><br/>
+        <b>Python for Data Science & AI</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png">
+        <img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="180" alt="Introduction to AI" /><br/>
+        <b>Introduction to Artificial Intelligence</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/7YB27FPb/machine-learning.png">
+        <img src="https://i.postimg.cc/7YB27FPb/machine-learning.png" width="180" alt="Machine Learning" /><br/>
+        <b>Machine Learning</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/XvKr2JBs/digital-marketing.png">
+        <img src="https://i.postimg.cc/XvKr2JBs/digital-marketing.png" width="180" alt="Digital Marketing" /><br/>
+        <b>Digital Marketing</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ### 🌍 Sustainability & Climate
 
-| Certificate | Issuer |
-|-------------|--------|
-| [Gender & Climate Action](https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg) | UN |
-| [Net Zero 101](https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg) | — |
-| [Introduction to Sustainable Development](https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg) | — |
-| [The UN Climate Change Process](https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg) | UNFCCC |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg">
+        <img src="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg" width="180" alt="Gender & Climate Action" /><br/>
+        <b>Gender & Climate Action</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg">
+        <img src="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg" width="180" alt="Net Zero 101" /><br/>
+        <b>Net Zero 101</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg">
+        <img src="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg" width="180" alt="Introduction to Sustainable Development" /><br/>
+        <b>Introduction to Sustainable Development</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg">
+        <img src="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg" width="180" alt="The UN Climate Change Process" /><br/>
+        <b>The UN Climate Change Process</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ### 🏅 Competitions & Leadership
 
-| Certificate | Event |
-|-------------|-------|
-| [BOBDO App Developer](https://i.postimg.cc/8CfQNkjN/BOBDO.png) | BOBDO Organization |
-| [Bangladesh Mathematical Olympiad](https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png) | BdMO |
-| [ICT Olympiad](https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png) | National ICT |
-| [GK Olympiad](https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg) | National GK |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/8CfQNkjN/BOBDO.png">
+        <img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="180" alt="BOBDO App Developer" /><br/>
+        <b>BOBDO App Developer</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png">
+        <img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="180" alt="Bangladesh Mathematical Olympiad" /><br/>
+        <b>Bangladesh Mathematical Olympiad</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png">
+        <img src="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png" width="180" alt="ICT Olympiad" /><br/>
+        <b>ICT Olympiad</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg">
+        <img src="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg" width="180" alt="GK Olympiad" /><br/>
+        <b>GK Olympiad</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <div align="center">
   <a href="https://ridoan-zisan.netlify.app/blog">
