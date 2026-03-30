@@ -87,12 +87,12 @@ const RidoanZisan = {
 <!-- Profile Details Card -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
 
-<!-- Stats + Languages side by side -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidoanDev&theme=tokyonight" />
+<!-- Stats + Streak side by side -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=e0d7ff&border_radius=12" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117" />
 
-<!-- Streak Stats -->
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117" />
+<!-- Top Languages -->
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=e0d7ff&langs_count=10&border_radius=12&hide=python,java&custom_title=Top+Languages" />
 
 </div>
 
@@ -120,18 +120,18 @@ const RidoanZisan = {
   <tr>
     <td align="center" width="33%">
       <img src="https://skillicons.dev/icons?i=react" width="40" /><br/><br/>
-      <strong>Web Apps</strong><br/>
-      <p>Scalable, full-stack web applications using Next.js, React, Node.js & MongoDB with clean, maintainable architecture.</p>
+      <strong>🌐 Web Apps</strong><br/>
+      <p>Dynamic, full-stack web applications using React, Next.js, Firebase & REST APIs — fast, scalable and maintainable.</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=python" width="40" /><br/><br/>
-      <strong>EdTech Platforms</strong><br/>
-      <p>Accessible educational technology solutions built for Bangladesh's youth — empowering learning through innovation.</p>
+      <img src="https://skillicons.dev/icons?i=javascript" width="40" /><br/><br/>
+      <strong>📱 PWA Apps</strong><br/>
+      <p>Progressive Web Apps that work offline, load instantly and feel native — built with modern web standards for all devices.</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br/><br/>
-      <strong>REST APIs</strong><br/>
-      <p>Robust and secure RESTful APIs with Node.js/Express & MongoDB for powering modern, scalable applications.</p>
+      <img src="https://skillicons.dev/icons?i=html" width="40" /><br/><br/>
+      <strong>🖥️ Websites</strong><br/>
+      <p>Pixel-perfect, responsive websites with clean HTML, CSS & JavaScript — deployed lightning fast on Netlify & Vercel.</p>
     </td>
   </tr>
 </table>
