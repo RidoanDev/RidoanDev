@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Social%20Change%20Maker%20%7C%20Open%20Source%20Contributor&descAlignY=60&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Social%20Change%20Maker&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/RidoanDev">
@@ -20,18 +20,19 @@
 
 ## <img src="https://github.com/RidoanDev.png" width="36" align="center" style="border-radius:50%" /> &nbsp;About Me
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    👨‍💻 WHO AM I?                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  Name        : Md Ridoan Mahmud Zisan                        ║
-║  Location    : Bogura, Bangladesh 🇧🇩                         ║
-║  Role        : Full Stack Developer & Social Change Maker    ║
-║  Focus       : Scalable Web Apps · EdTech · Open Source      ║
-║  Learning    : Cloud Native · DevOps · Advanced AI/ML        ║
-║  Mission     : Empower youth through accessible technology   ║
-║  Available   : ✅ Open to collaborate & freelance            ║
-╚══════════════════════════════════════════════════════════════╝
+```typescript
+const RidoanZisan = {
+  name        : "Md Ridoan Mahmud Zisan",
+  location    : "Bogura, Bangladesh 🇧🇩",
+  role        : ["Full Stack Web Developer", "Open Source Contributor", "Social Change Maker"],
+  email       : "ridoan.zisan@gmail.com",
+  portfolio   : "https://ridoan-zisan.netlify.app",
+  focus       : "Scalable Web Apps · EdTech · Open Source",
+  learning    : "Cloud Native · DevOps · Advanced AI/ML",
+  mission     : "Empower youth through accessible technology",
+  available   : "✅ Open to collaborate & freelance",
+  funFact     : "I turn coffee into clean, efficient code ☕"
+};
 ```
 
 ---
@@ -69,8 +70,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -87,13 +88,9 @@
 <!-- Profile Details Card -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
 
-<!-- Stats + Streak side by side -->
+<!-- Stats + Languages side by side -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=e0d7ff&border_radius=12" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=22d3ee&currStreakLabel=A78BFA&sideLabels=A78BFA&border_radius=12" />
-
-<!-- Languages + Productive Time -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=e0d7ff&langs_count=10&border_radius=12" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RidoanDev&theme=tokyonight&utcOffset=6" />
 
 <!-- Streak Stats -->
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117" />
@@ -113,7 +110,7 @@
 ## <img src="https://skillicons.dev/icons?i=githubactions" width="28" align="center" /> &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&bg_color=0D1117&color=A78BFA&line=22D3EE&point=ffffff&hide_border=true&area=true&area_color=7c3aed&radius=12" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&bg_color=0D1117&color=A78BFA&line=22D3EE&point=ffffff&hide_border=true&area=true&area_color=7c3aed&radius=12" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -130,17 +127,17 @@
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br/><br/>
       <strong>REST APIs</strong><br/>
-      <p>Robust and secure RESTful APIs with Node.js/Express, MongoDB & MySQL for powering modern applications.</p>
+      <p>Robust and secure RESTful APIs with Node.js/Express, MongoDB & MySQL powering modern applications.</p>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=python" width="40" /><br/><br/>
       <strong>EdTech & Social Impact</strong><br/>
-      <p>Purpose-driven platforms like HSCian & YouthHopeBD — empowering youth through accessible technology in Bangladesh.</p>
+      <p>Purpose-driven platforms for education, youth empowerment, and community building in Bangladesh.</p>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=github" width="40" /><br/><br/>
       <strong>Open Source</strong><br/>
-      <p>Contributing to the open-source ecosystem with a philosophy of building in public and collaboration over competition.</p>
+      <p>Contributing to the open source ecosystem and building in public to inspire and empower developers.</p>
     </td>
   </tr>
 </table>
@@ -260,10 +257,9 @@
 
 ## 🏅 &nbsp;Certifications & Achievements
 
-<div align="center">
-
 ### 💻 Technology & Development
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -284,7 +280,7 @@
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="90" style="border-radius:8px;"/>
-      <br/><sub><b>📊 Data Science & AI</b></sub>
+      <br/><sub><b>📊 Data Science AI</b></sub>
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="90" style="border-radius:8px;"/>
@@ -300,9 +296,11 @@
     </td>
   </tr>
 </table>
+</div>
 
 ### 🌍 Sustainability & Climate
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -323,9 +321,11 @@
     </td>
   </tr>
 </table>
+</div>
 
 ### 🏆 Competitions & Leadership
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -346,14 +346,11 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
 ## 🌱 &nbsp;Open Source Spirit
-
-<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -367,17 +364,15 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 ---
 
 ## &nbsp;Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ridoan--zisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
 [![GitHub](https://img.shields.io/badge/GitHub-RidoanDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ridoan--zisan-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ridoan-zisan.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ridoan--zisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ridoan--zisan-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ridoan-zisan.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-ridoan.zisan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridoan.zisan@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-rid0anzisan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rid0anzisan)
 [![YouTube](https://img.shields.io/badge/YouTube-ridoan--zisan-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ridoan-zisan)
@@ -388,24 +383,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0e7490,100:1e1b4b&height=160&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=28&fontColor=e0d7ff&animation=fadeIn&fontAlignY=45" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20Build%20Something%20Amazing!&fontSize=24&fontColor=e0d7ff&animation=fadeIn&fontAlignY=45" />
 
-<br/>
-
-<a href="https://ridoan-zisan.netlify.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="mailto:ridoan.zisan@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email-Hire_Me-22d3ee?style=for-the-badge&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/ridoan-zisan">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-<br/><br/>
-
-<sub>⚡ Crafted with passion by <b>Md Ridoan Mahmud Zisan</b> · Bogura, Bangladesh 🇧🇩 · © 2025</sub>
+<sub><img src="https://skillicons.dev/icons?i=github" width="14" align="center" /> &nbsp;<i>Crafted with passion by <b>Md Ridoan Mahmud Zisan</b> · Bogura, Bangladesh 🇧🇩 · © 2025 — If you find my work interesting, consider giving my repos a star!</i></sub>
 
 </div>
