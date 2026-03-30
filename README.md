@@ -1,87 +1,84 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a0533,100:0d1b2a&height=300&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=44&fontColor=e0d7ff&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20Social%20Change%20Maker%20%E2%80%A2%20Open%20Source%20Contributor&descSize=17&descAlignY=65&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
-
-</div>
-
-<div align="center">
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=52&fontColor=e0d7ff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Social%20Change%20Maker%20%E2%80%A2%20Open%20Source%20Contributor&descSize=18&descAlignY=62&animation=fadeIn&stroke=7c3aed&strokeWidth=2" />
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ridoan+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Social+Change+Maker+%F0%9F%A4%9D;Building+EdTech+for+Bangladesh+%F0%9F%8E%93;Let's+Build+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" />
+<a href="https://github.com/RidoanDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Ridoan+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Social+Change+Maker+%F0%9F%A4%9D;Building+EdTech+for+Bangladesh+%F0%9F%8E%93;Let's+Build+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- PROFILE IMAGE -->
-<img src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/assets/bounce-profile.gif" width="130" style="border-radius:50%;"/>
-
-<br/><br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
+<!-- BADGES -->
 <a href="https://github.com/RidoanDev">
   <img src="https://komarev.com/ghpvc/?username=RidoanDev&label=👁️%20Profile%20Views&color=7c3aed&style=flat-square&labelColor=0d1117" />
 </a>
+&nbsp;
+<img src="https://img.shields.io/github/followers/RidoanDev?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117" alt="Followers" />
 
 <br/><br/>
 
-<!-- SOCIAL BADGES - ROUND STYLE -->
-<a href="https://linkedin.com/in/ridoan-zisan" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" style="border-radius:50px"/>
+<!-- SOCIAL BADGES -->
+<a href="https://linkedin.com/in/ridoan-zisan">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="https://github.com/RidoanDev" title="GitHub">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" style="border-radius:50px"/>
+<a href="https://github.com/RidoanDev">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
-<a href="https://facebook.com/rid0anzisan" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" style="border-radius:50px"/>
+<a href="https://facebook.com/rid0anzisan">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;
-<a href="https://youtube.com/@ridoan-zisan" title="YouTube">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" style="border-radius:50px"/>
+<a href="https://youtube.com/@ridoan-zisan">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:ridoan.zisan@gmail.com" title="Email">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" style="border-radius:50px"/>
+<a href="mailto:ridoan.zisan@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="https://ridoan-zisan.netlify.app" title="Portfolio">
-  <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" style="border-radius:50px"/>
+<a href="https://ridoan-zisan.netlify.app">
+  <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ABOUT ME -->
-<div align="center">
-  <h2>🧬 About Me</h2>
-</div>
+## 🧬 About Me
 
 ```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    👨‍💻 WHO AM I?                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  Name        : Md Ridoan Mahmud Zisan                        ║
-║  Location    : Bogura, Bangladesh 🇧🇩                         ║
-║  Role        : Full Stack Developer & Social Change Maker    ║
-║  Focus       : Scalable Web Apps · EdTech · Open Source      ║
-║  Learning    : Cloud Native · DevOps · Advanced AI/ML        ║
-║  Mission     : Empower youth through accessible technology   ║
-║  Available   : ✅ Open to collaborate & freelance            ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                    👨‍💻 WHO AM I?                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Name        : Md Ridoan Mahmud Zisan                            ║
+║  Location    : Bogura, Bangladesh 🇧🇩                             ║
+║  Role        : Full Stack Developer & Social Change Maker        ║
+║  Focus       : Scalable Web Apps · EdTech · Open Source          ║
+║  Learning    : Cloud Native · DevOps · Advanced AI/ML            ║
+║  Mission     : Empower youth through accessible technology       ║
+║  Available   : ✅ Open to collaborate & freelance                ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
+```typescript
+const RidoanZisan = {
+  name        : "Md Ridoan Mahmud Zisan",
+  role        : ["Full Stack Web Developer", "Social Change Maker", "Open Source Contributor"],
+  location    : "Bogura, Bangladesh 🇧🇩",
+  email       : "ridoan.zisan@gmail.com",
+  portfolio   : "https://ridoan-zisan.netlify.app",
+  focus       : ["EdTech", "Scalable Web Apps", "Open Source"],
+  currentLearn: ["Cloud Native", "DevOps", "Advanced AI/ML"],
+  mission     : "Empower youth through accessible technology",
+  funFact     : "I turn ideas into impactful digital solutions for Bangladesh 🚀"
+};
+```
 
 ---
 
-<!-- TECH STACK -->
-<div align="center">
-  <h2>⚡ Tech Stack Arsenal</h2>
-  <p><i>Technologies I work with every day</i></p>
-</div>
+## ⚡ Tech Stack Arsenal
 
 <div align="center">
+<p><i>Technologies I work with every day</i></p>
 
 ### 🎨 Frontend
 
@@ -119,49 +116,83 @@
 
 </div>
 
-<br/>
+---
+
+## 🚀 What I Build
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=react" width="45" /><br/><br/>
+      <strong>Full Stack Web Apps</strong><br/>
+      <p>Scalable, production-ready web applications using Next.js, React, Node.js & MongoDB with clean architecture.</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=python" width="45" /><br/><br/>
+      <strong>AI/ML Solutions</strong><br/>
+      <p>Building intelligent systems with Python, data science pipelines, and machine learning models.</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br/><br/>
+      <strong>REST APIs</strong><br/>
+      <p>Robust and secure RESTful APIs with Node.js/Express & databases for powering modern applications.</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" /><br/><br/>
+      <strong>EdTech Platforms</strong><br/>
+      <p>Accessible educational technology solutions designed to empower youth across Bangladesh.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- GITHUB STATS -->
+## 📊 GitHub Intelligence
+
 <div align="center">
-  <h2>📊 GitHub Intelligence</h2>
+
+<!-- Stats + Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=e0d7ff&border_radius=12" height="175"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=22d3ee&currStreakLabel=A78BFA&sideLabels=A78BFA&border_radius=12" height="175"/>
+
+<br/><br/>
+
+<!-- Languages + Productive Time -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=e0d7ff&langs_count=10&border_radius=12" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RidoanDev&theme=tokyonight&utcOffset=6" height="160"/>
+
+<br/><br/>
+
+<!-- Profile Details Card -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
+
 </div>
 
-<!-- STATS ROW -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=e0d7ff&border_radius=12" height="175"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=22d3ee&currStreakLabel=A78BFA&sideLabels=A78BFA&border_radius=12" height="175"/>
-</div>
+---
 
-<br/>
+## 📈 Contribution Graph
 
-<!-- LANGUAGES + PRODUCTIVE TIME -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=e0d7ff&langs_count=10&border_radius=12" height="160"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RidoanDev&theme=tokyonight&utcOffset=6" height="160"/>
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&bg_color=0D1117&color=A78BFA&line=22D3EE&point=ffffff&hide_border=true&area=true&area_color=7c3aed&radius=12" width="100%" alt="Activity Graph"/>
 </div>
 
-<br/>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=RidoanDev&theme=onestar&no-frame=true&column=7&margin-w=10" />
+</div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-  <p><i>From EdTech to eCommerce to Social Impact — built with ❤️</i></p>
-</div>
+## 🗂️ Featured Projects
 
 <div align="center">
+<p><i>From EdTech to eCommerce to Social Impact — built with ❤️</i></p>
+
 <table>
   <tr>
     <td align="center" width="25%">
@@ -183,80 +214,12 @@
     <td align="center" width="25%">
       <a href="https://netlistore.vercel.app">
         <img src="https://i.postimg.cc/tgmmKZmJ/netlistore.png" width="100%" style="border-radius:10px;"/>
-        <br/><b>🛍️ Netlistore</b>
+        <br/><b>🛒 NetliStore</b>
       </a>
-      <br/><sub>🏷️ E-commerce platform</sub>
+      <br/><sub>🏷️ Full-stack eCommerce app</sub>
       <br/><img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
     <td align="center" width="25%">
-      <a href="https://zupramart.netlify.app">
-        <img src="https://zupramart.netlify.app/ZupraMart.jpg" width="100%" style="border-radius:10px;"/>
-        <br/><b>🛒 ZupraMart</b>
-      </a>
-      <br/><sub>🏷️ Online marketplace</sub>
-      <br/><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://bobdo.vercel.app">
-        <img src="https://bobdo.vercel.app/bobdo.jpg" width="100%" style="border-radius:10px;"/>
-        <br/><b>🩸 BOBDO</b>
-      </a>
-      <br/><sub>🏷️ Blood donation org</sub>
-      <br/><img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/>
-    </td>
-    <td align="center">
-      <a href="https://hscian.netlify.app">
-        <img src="https://i.postimg.cc/BQP7QDjk/HSCian-20250725-225238-0000.png" width="100%" style="border-radius:10px;"/>
-        <br/><b>🎓 HSCian</b>
-      </a>
-      <br/><sub>🏷️ EdTech for students</sub>
-      <br/><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-    </td>
-    <td align="center">
-      <a href="https://youthhope-bd.netlify.app">
-        <img src="https://i.postimg.cc/rskLpzPD/IMG-20250916-021919.jpg" width="100%" style="border-radius:10px;"/>
-        <br/><b>🤝 YouthHopeBD</b>
-      </a>
-      <br/><sub>🏷️ Youth empowerment NGO</sub>
-      <br/><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-    </td>
-    <td align="center">
-      <a href="https://zpad.netlify.app">
-        <img src="https://i.postimg.cc/vBkkVgWk/zpad.png" width="100%" style="border-radius:10px;"/>
-        <br/><b>📝 Zpad</b>
-      </a>
-      <br/><sub>🏷️ Online notepad app</sub>
-      <br/><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://toolhub-i.netlify.app">
-        <img src="https://i.postimg.cc/vZyRhVpd/toolhub.png" width="100%" style="border-radius:10px;"/>
-        <br/><b>🛠️ ToolHub</b>
-      </a>
-      <br/><sub>🏷️ Dev utilities suite</sub>
-      <br/><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-    </td>
-    <td align="center">
-      <a href="https://thetacode.netlify.app">
-        <img src="https://i.postimg.cc/kMRkdsCm/thetacode.png" width="100%" style="border-radius:10px;"/>
-        <br/><b>💻 ThetaCode</b>
-      </a>
-      <br/><sub>🏷️ Coding community</sub>
-      <br/><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-    </td>
-    <td align="center">
-      <a href="https://uniconverter.netlify.app">
-        <img src="https://i.postimg.cc/qqKYXJwR/uniconverter.png" width="100%" style="border-radius:10px;"/>
-        <br/><b>🔄 UniConverter</b>
-      </a>
-      <br/><sub>🏷️ Universal file converter</sub>
-      <br/><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-    </td>
-    <td align="center">
       <a href="https://ridoan-zisan.netlify.app/blog">
         <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="100%" style="border-radius:10px;"/>
         <br/><b>👀 View All 50+ Projects</b>
@@ -266,19 +229,15 @@
     </td>
   </tr>
 </table>
-</div>
 
-<br/>
+</div>
 
 ---
 
-<!-- CERTIFICATIONS -->
-<div align="center">
-  <h2>🏅 Certifications & Achievements</h2>
-  <p><i>Continuous learning across tech, sustainability & leadership</i></p>
-</div>
+## 🏅 Certifications & Achievements
 
 <div align="center">
+<p><i>Continuous learning across tech, sustainability & leadership</i></p>
 
 ### 💻 Technology & Development
 
@@ -302,7 +261,7 @@
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="90" style="border-radius:8px;"/>
-      <br/><sub><b>📊 Data Science AI</b></sub>
+      <br/><sub><b>📊 Data Science & AI</b></sub>
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="90" style="border-radius:8px;"/>
@@ -348,7 +307,7 @@
   <tr>
     <td align="center">
       <img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="90" style="border-radius:8px;"/>
-      <br/><sub><b>🩸 BOBDO App Developerr</b></sub>
+      <br/><sub><b>🩸 BOBDO App Developer</b></sub>
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="90" style="border-radius:8px;"/>
@@ -367,42 +326,32 @@
 
 </div>
 
-<br/>
+---
+
+## 🌱 Open Source Spirit
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🌟 I believe in:                                             ║
+║                                                               ║
+║   🔓  Open Source First                                       ║
+║   📖  Learning in Public                                      ║
+║   🤝  Collaboration Over Competition                          ║
+║   🇧🇩  Building for Bangladesh & Beyond                       ║
+║   💡  Making Tech Accessible to Everyone                      ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-
-<!-- OPEN SOURCE CONTRIBUTIONS -->
-<div align="center">
-  <h2>🌱 Open Source Spirit</h2>
-</div>
+## 🌐 Let's Connect!
 
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║  🌟 I believe in:                                         ║
-║                                                           ║
-║   🔓  Open Source First                                   ║
-║   📖  Learning in Public                                  ║
-║   🤝  Collaboration Over Competition                      ║
-║   🇧🇩  Building for Bangladesh & Beyond                   ║
-║   💡  Making Tech Accessible to Everyone                  ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-
-<!-- CONNECT SECTION -->
-<div align="center">
-  <h2>🌐 Let's Connect!</h2>
-  <p>Always open to interesting conversations, collaborations and new opportunities 🚀</p>
-</div>
-
-<div align="center">
+<p>Always open to interesting conversations, collaborations and new opportunities 🚀</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ridoan-zisan.netlify.app)
@@ -413,26 +362,33 @@
 
 </div>
 
-<br/>
+---
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0e7490,100:1e1b4b&height=160&section=footer&text=Let%27s%20Build%20Something%20Amazing!&fontSize=28&fontColor=e0d7ff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-  <br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0e7490,100:1e1b4b&height=160&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=28&fontColor=e0d7ff&animation=fadeIn&fontAlignY=45" />
 
-  <a href="https://ridoan-zisan.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ridoan.zisan@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-Hire_Me-22d3ee?style=for-the-badge&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/ridoan-zisan">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0d1117"/>
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://ridoan-zisan.netlify.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="mailto:ridoan.zisan@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email-Hire_Me-22d3ee?style=for-the-badge&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ridoan-zisan">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0d1117"/>
+</a>
 
-  <sub>⚡ Crafted with passion by <b>Md Ridoan Mahmud Zisan</b> · Bogura, Bangladesh 🇧🇩 · © 2025</sub>
+<br/><br/>
+
+<sub>⚡ Crafted with passion by <b>Md Ridoan Mahmud Zisan</b> · Bogura, Bangladesh 🇧🇩 · © 2025</sub>
+
+<br/>
+
+<sub><img src="https://skillicons.dev/icons?i=github" width="14" align="center" /> &nbsp;<i>If you find my work interesting, consider giving my repos a ⭐ — it means a lot!</i></sub>
+
+</div>
