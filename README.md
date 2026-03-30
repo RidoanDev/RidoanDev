@@ -62,12 +62,13 @@ const RidoanZisan = {
 
 ---
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
 
-<!-- এখানে repos-per-language ব্যবহার করা হয়েছে যা রিপোজিটরি সংখ্যা অনুযায়ী দেখাবে -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidoanDev&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" />
