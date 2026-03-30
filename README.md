@@ -24,9 +24,9 @@
 const RidoanZisan = {
   name        : "Md Ridoan Mahmud Zisan",
   born        : "31 December 2007",
-  location    : "Bangladesh 🇧🇩",
+  location    : "Bogura, Bangladesh",
   phone       : "+8801712525910",
-  email       : "ridoan@example.com",
+  email       : "ridoan.zisan@gmail.com",
   portfolio   : "https://ridoan-zisan.netlify.app",
   skills      : ["HTML", "TypeScript", "Firebase", "GitHub", "Netlify/Vercel", "REST APIs"],
   builds      : ["Web Applications", "PWA Applications", "Websites"],
