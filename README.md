@@ -84,15 +84,16 @@ const RidoanZisan = {
 
 <div align="center">
 
-<!-- Profile Details Card -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
+<!-- GitHub Stats Card -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=e0d7ff&border_radius=12&count_private=true&include_all_commits=true" />
+&nbsp;
+<!-- Top Languages Card -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=e0d7ff&langs_count=8&border_radius=12&custom_title=Top+Languages" />
 
-<!-- Stats + Streak side by side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=e0d7ff&border_radius=12" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117" />
+<br/><br/>
 
-<!-- Top Languages -->
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=e0d7ff&langs_count=10&border_radius=12&hide=python,java&custom_title=Top+Languages" />
+<!-- Streak Stats — most reliable provider -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA&background=0D1117&border_radius=12" />
 
 </div>
 
@@ -101,7 +102,7 @@ const RidoanZisan = {
 ## <img src="https://skillicons.dev/icons?i=github" width="28" align="center" /> &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=RidoanDev&theme=onestar&no-frame=true&column=7&margin-w=10" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RidoanDev&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -109,7 +110,7 @@ const RidoanZisan = {
 ## <img src="https://skillicons.dev/icons?i=githubactions" width="28" align="center" /> &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=ffffff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7c3aed&point=ffffff&area_color=7c3aed&radius=12" />
 </div>
 
 ---
