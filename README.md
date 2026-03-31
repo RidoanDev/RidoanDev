@@ -300,7 +300,7 @@ const RidoanZisan = {
 </div>
 
 <div align="center">
-  <a href="https://ridoan-zisan.netlify.app/blog">
+  <a href="https://ridoan-zisan.netlify.app/#certificates">
     <img src="https://img.shields.io/badge/View%20All%20Certificates-16a34a?style=for-the-badge&logo=academia&logoColor=white" />
   </a>
 </div>
