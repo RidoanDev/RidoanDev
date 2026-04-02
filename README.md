@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/RidoanDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Md+Ridoan+Mahmud+Zisan+%F0%9F%91%8B;Web+%26+PWA+Application+Developer;HTML+%7C+TypeScript+%7C+Firebase+Expert;Building+Digital+Solutions+for+Bangladesh;50%2B+Projects+%26+Counting..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ridoan+Zisan+%F0%9F%91%8B;Web+%26+PWA+Application+Developer;HTML+%7C+TypeScript+%7C+Firebase+Expert;Building+Digital+Solutions+for+Bangladesh;50%2B+Projects+%26+Counting..." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,16 +37,21 @@ const RidoanZisan = {
 
 ---
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
-🌐 Frontend
+
+### 🌐 Frontend
 <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4&theme=dark" /></a>
-☁️ Backend & Services
+
+### ☁️ Backend & Services
 <a href="#"><img src="https://skillicons.dev/icons?i=firebase&perline=4&theme=dark" /></a>
- 
+&nbsp;
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-🚀 DevOps & Deployment
+
+### 🚀 DevOps & Deployment
 <a href="#"><img src="https://skillicons.dev/icons?i=github,netlify,vercel&perline=4&theme=dark" /></a>
+
 </div>
 
 ---
