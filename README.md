@@ -42,17 +42,60 @@ const RidoanZisan = {
 <div align="center">
 
 ### 🌐 Frontend
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4&theme=dark" /></a>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
 
 ### ☁️ Backend & Services
-<a href="#"><img src="https://skillicons.dev/icons?i=firebase&perline=4&theme=dark" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" />
+      <br>REST API
+    </td>
+  </tr>
+</table>
 
 ### 🚀 DevOps & Deployment
-<a href="#"><img src="https://skillicons.dev/icons?i=github,netlify,vercel&perline=4&theme=dark" /></a>
 
-</div>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" />
+      <br>Vercel
+    </td>
+  </tr>
+</table>
 
 ---
 
