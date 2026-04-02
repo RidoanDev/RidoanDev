@@ -37,27 +37,16 @@ const RidoanZisan = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 🌐 Frontend
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-### ☁️ Backend & Services
-<div>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-</div>
-
-### 🚀 DevOps & Deployment
-<div>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+🛠️ Tech Stack & Tools
+<div align="center">
+🌐 Frontend
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4&theme=dark" /></a>
+☁️ Backend & Services
+<a href="#"><img src="https://skillicons.dev/icons?i=firebase&perline=4&theme=dark" /></a>
+ 
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+🚀 DevOps & Deployment
+<a href="#"><img src="https://skillicons.dev/icons?i=github,netlify,vercel&perline=4&theme=dark" /></a>
 </div>
 
 ---
