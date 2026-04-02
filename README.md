@@ -40,7 +40,7 @@ const RidoanZisan = {
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div>
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
@@ -50,14 +50,14 @@ const RidoanZisan = {
 </div>
 
 ### ☁️ Backend & Services
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
 </div>
 
 ### 🚀 DevOps & Deployment
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
@@ -65,7 +65,7 @@ const RidoanZisan = {
 </div>
 
 ### 🧰 Tools & Environment
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
