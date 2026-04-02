@@ -39,64 +39,46 @@ const RidoanZisan = {
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
 ### 🌐 Frontend
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="55" height="55" />
+</div>
 
 ### ☁️ Backend & Services
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" />
-      <br>REST API
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
+</div>
 
 ### 🚀 DevOps & Deployment
+<div>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="55" height="55" />
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" />
-      <br>Vercel
-    </td>
-  </tr>
-</table>
-
+### 🧰 Tools & Environment
+<div>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
+</div>
 ---
 
 ## 📊 GitHub Statistics
