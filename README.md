@@ -39,59 +39,25 @@ const RidoanZisan = {
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+### 🌐 Frontend
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
-<!-- Row 1: Animated sliding icons -->
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br><b>TypeScript</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
-      <br><b>CSS3</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase" />
-      <br><b>Firebase</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      <br><b>REST API</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
-      <br><b>GitHub</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netlify" width="55" height="55" alt="Netlify" />
-      <br><b>Netlify</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" />
-      <br><b>Vercel</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
-      <br><b>VS Code</b>
-    </td>
-  </tr>
-</table>
+### ☁️ Backend & Services
+<div>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</div>
 
-<!-- Animated scrolling marquee row -->
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,firebase,github,netlify,vercel,vscode,git&perline=10&theme=dark" />
-
+### 🚀 DevOps & Deployment
+<div>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
 ---
@@ -107,6 +73,7 @@ const RidoanZisan = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" />
 
 </div>
+
 
 ---
 
@@ -124,15 +91,12 @@ const RidoanZisan = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
