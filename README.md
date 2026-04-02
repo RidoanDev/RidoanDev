@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/RidoanDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ridoan+Zisan+%F0%9F%91%8B;Web+%26+PWA+Application+Developer;HTML+%7C+TypeScript+%7C+Firebase+Expert;Building+Digital+Solutions+for+Bangladesh;50%2B+Projects+%26+Counting..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Md+Ridoan+Mahmud+Zisan+%F0%9F%91%8B;Web+%26+PWA+Application+Developer;HTML+%7C+TypeScript+%7C+Firebase+Expert;Building+Digital+Solutions+for+Bangladesh;50%2B+Projects+%26+Counting..." alt="Typing SVG" />
 </a>
 
 <br/>
