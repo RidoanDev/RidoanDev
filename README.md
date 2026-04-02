@@ -40,35 +40,35 @@ const RidoanZisan = {
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend
-<div>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="55" height="55" />
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
 </div>
 
 ### ☁️ Backend & Services
-<div>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
 </div>
 
 ### 🚀 DevOps & Deployment
-<div>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="55" height="55" />
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
 </div>
 
 ### 🧰 Tools & Environment
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" style="background:#fff; border-radius:8px; padding:4px;" />
 </div>
 ---
 
