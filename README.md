@@ -48,59 +48,51 @@ const RidoanZisan = {
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96px">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>CSS3</b></sub>
+      <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>Vite</b></sub>
     </td>
     <td align="center" width="96px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Tailwind CSS</b></sub>
     </td>
+    <td align="center" width="96px">
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>shadcn/ui</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>Radix UI</b></sub>
+    </td>
   </tr>
 </table>
 
-### ☁️ Backend & Services
+---
+
+### 🔥 Backend
 
 <table>
   <tr>
-    <td align="center" width="96px">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>REST API</b></sub>
-    </td>
     <td align="center" width="96px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Firebase</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Node.js</b></sub>
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>REST API</b></sub>
     </td>
   </tr>
 </table>
 
-### 🚀 DevOps & Deployment
+---
+
+### 🚀 Hosting & Deployment
 
 <table>
   <tr>
-    <td align="center" width="96px">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
     <td align="center" width="96px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Vercel</b></sub>
@@ -112,6 +104,8 @@ const RidoanZisan = {
   </tr>
 </table>
 
+---
+
 ### 🧰 Tools & Environment
 
 <table>
@@ -121,12 +115,16 @@ const RidoanZisan = {
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Figma</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>Git</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Linux</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>npm</b></sub>
     </td>
   </tr>
 </table>
