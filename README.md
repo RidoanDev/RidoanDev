@@ -21,6 +21,7 @@
 ## 👤 About Me
 
 ```typescript
+```typescript
 const RidoanZisan = {
   name        : "Md Ridoan Mahmud Zisan",
   born        : "31 December 2007",
@@ -28,7 +29,8 @@ const RidoanZisan = {
   phone       : "+8801712525910",
   email       : "ridoan.zisan@gmail.com",
   portfolio   : "https://ridoan-zisan.netlify.app",
-  skills      : ["HTML", "TypeScript", "Firebase", "GitHub", "Netlify/Vercel", "REST APIs"],
+  skills      : ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Firebase", "REST APIs", "Git", "GitHub"],
+  deploys     : ["Netlify", "Vercel"],
   builds      : ["Web Applications", "PWA Applications", "Websites"],
   passion     : "Crafting impactful digital solutions for real-world problems",
   funFact     : "I started coding before I turned 16 — and never stopped 🚀"
