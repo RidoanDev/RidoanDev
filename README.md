@@ -191,14 +191,8 @@ const now = {
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/Snake.svg" alt="github contribution grid snake animation" />
 </div>
-
-> 💡 **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repository.
 
 ---
 
