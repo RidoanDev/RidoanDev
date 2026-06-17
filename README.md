@@ -21,12 +21,10 @@
 ## 👤 About Me
 
 ```typescript
-```typescript
 const RidoanZisan = {
   name        : "Md Ridoan Mahmud Zisan",
   born        : "31 December 2007",
   location    : "Bogura, Bangladesh",
-  phone       : "+8801712525910",
   email       : "ridoan.zisan@gmail.com",
   portfolio   : "https://ridoan-zisan.netlify.app",
   skills      : ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Firebase", "REST APIs", "Git", "GitHub"],
@@ -34,6 +32,19 @@ const RidoanZisan = {
   builds      : ["Web Applications", "PWA Applications", "Websites"],
   passion     : "Crafting impactful digital solutions for real-world problems",
   funFact     : "I started coding before I turned 16 — and never stopped 🚀"
+};
+```
+
+---
+
+## 🚀 Currently
+
+```typescript
+const now = {
+  learning    : ["Next.js", "Node.js", "PostgreSQL"],
+  building    : "Full-stack web apps with real-world impact",
+  exploring   : "Backend development & API design",
+  goal        : "Become a full-stack developer by end of 2025"
 };
 ```
 
@@ -69,12 +80,20 @@ const RidoanZisan = {
       <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Radix UI</b></sub>
     </td>
+    <td align="center" width="96px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
   </tr>
 </table>
 
 ---
 
-### 🔥 Backend
+### 🔥 Backend & Database
 
 <table>
   <tr>
@@ -85,6 +104,10 @@ const RidoanZisan = {
     <td align="center" width="96px">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>REST API</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>Node.js <i>(learning)</i></b></sub>
     </td>
   </tr>
 </table>
@@ -128,6 +151,10 @@ const RidoanZisan = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>npm</b></sub>
     </td>
+    <td align="center" width="96px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>Figma</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -139,9 +166,11 @@ const RidoanZisan = {
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RidoanDev&theme=tokyonight&utcOffset=6" />
 
 </div>
 
@@ -163,11 +192,13 @@ const RidoanZisan = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+> 💡 **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repository.
 
 ---
 
@@ -178,60 +209,102 @@ const RidoanZisan = {
     <td width="50%">
       <h3>🛒 <a href="https://zupramart.netlify.app">ZupraMart</a></h3>
       <p>Full-featured e-commerce platform with product listings, cart, and checkout system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
     </td>
     <td width="50%">
       <h3>🚨 <a href="https://chor-koi.vercel.app">Chor Koi</a></h3>
       <p>Corruption alert platform empowering citizens to report and track corruption cases.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🎓 <a href="https://darpan-academy.netlify.app">Darpan Academy</a></h3>
       <p>EdTech platform providing quality educational resources and learning tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
     </td>
     <td width="50%">
       <h3>🩸 <a href="https://blood-mate.netlify.app">BloodMate</a></h3>
       <p>Blood management system connecting donors and recipients efficiently.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📱 <a href="https://micro-media.netlify.app">ZiptoGram</a></h3>
-      <p>Mini social media platform for sharing posts and connecting with people.</p>
-    </td>
-    <td width="50%">
-      <h3>📦 <a href="https://zisan-trader.netlify.app">Zisan Traders</a></h3>
-      <p>Inventory management system for tracking stock, sales, and business operations.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🩸 <a href="https://bobdo.vercel.app">BOBDO</a></h3>
-      <p>Blood donation organization platform managing donors and donation drives.</p>
+      <p>Micro social media platform for sharing short posts and media content.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+      </p>
     </td>
     <td width="50%">
       <h3>🌱 <a href="https://youthhope-bd.netlify.app">YouthHopeBD</a></h3>
       <p>Youth organization platform promoting community engagement and social impact.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📝 <a href="https://zpad.netlify.app">Zpad</a></h3>
       <p>Clean, fast online notepad for quick notes and text management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
     </td>
     <td width="50%">
       <h3>🔄 <a href="https://uniconverter.netlify.app">UniConverter</a></h3>
       <p>Universal converter tool for units, currencies, and data formats.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🏆 <a href="https://tournamention.netlify.app">Tournamention</a></h3>
       <p>Tournament management system for organizing brackets, teams, and scores.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
     </td>
     <td width="50%">
       <h3>🌐 <a href="https://ridoan-zisan.netlify.app">Portfolio</a></h3>
       <p>Personal portfolio showcasing projects, skills, and professional journey.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
@@ -393,7 +466,7 @@ const RidoanZisan = {
 [![GitHub](https://img.shields.io/badge/GitHub-RidoanDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ridoan--zisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
 [![Facebook](https://img.shields.io/badge/Facebook-ridoan.zisan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ridoan.zisan)
-[![Phone](https://img.shields.io/badge/Phone-%2B8801712525910-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801712525910)
+[![Email](https://img.shields.io/badge/Email-ridoan.zisan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridoan.zisan@gmail.com)
 
 </div>
 
