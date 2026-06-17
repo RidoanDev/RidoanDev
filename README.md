@@ -169,7 +169,15 @@ const now = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<div>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-40%25-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-20%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-10%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5%25-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RidoanDev&theme=tokyonight&utcOffset=6" />
 
 </div>
