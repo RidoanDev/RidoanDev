@@ -25,28 +25,20 @@ const RidoanZisan = {
   name        : "Md Ridoan Mahmud Zisan",
   born        : "31 December 2007",
   location    : "Bogura, Bangladesh",
+  phone       : "+8801712525910",
   email       : "ridoan.zisan@gmail.com",
   portfolio   : "https://ridoan-zisan.netlify.app",
+  agency      : {
+    name      : "OnonnoBit",
+    role      : "Founder & Developer",
+    url       : "https://ononnobit.vercel.app",
+    type      : "Web App Development Agency"
+  },
   skills      : ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Firebase", "REST APIs", "Git", "GitHub"],
   deploys     : ["Netlify", "Vercel"],
   builds      : ["Web Applications", "PWA Applications", "Websites"],
   passion     : "Crafting impactful digital solutions for real-world problems",
   funFact     : "I started coding before I turned 16 — and never stopped 🚀"
-};
-```
-
----
-
-## 🚀 Currently
-
-```typescript
-const now = {
-  role        : "Founder & Developer @ OnonnoBit",
-  agency      : "https://ononnobit.vercel.app",
-  github      : "https://github.com/OnonnoBit",
-  building    : "Full-stack web apps with real-world impact",
-  exploring   : "Backend development & API design",
-  goal        : "Building impactful digital products through OnonnoBit"
 };
 ```
 
@@ -82,20 +74,12 @@ const now = {
       <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Radix UI</b></sub>
     </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
   </tr>
 </table>
 
 ---
 
-### 🔥 Backend & Database
+### 🔥 Backend
 
 <table>
   <tr>
@@ -106,10 +90,6 @@ const now = {
     <td align="center" width="96px">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>REST API</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Node.js</b></sub>
     </td>
   </tr>
 </table>
@@ -153,10 +133,6 @@ const now = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>npm</b></sub>
     </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Figma</b></sub>
-    </td>
   </tr>
 </table>
 
@@ -168,19 +144,112 @@ const now = {
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" />
 
-<div>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-40%25-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-20%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-10%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5%25-3776AB?style=flat-square&logo=python&logoColor=white)
-
 </div>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RidoanDev&theme=tokyonight&utcOffset=6" />
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+<!--
+  SVG Language Graph — manually crafted
+  Languages based on project stack: TypeScript, HTML, CSS, JavaScript, JSX/TSX
+-->
+
+<svg width="820" height="200" viewBox="0 0 820 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most Used Languages">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="ts" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3178c6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="html" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e34c26;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f97316;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="css" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#563d7c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="js" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f1e05a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="other" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2ea043;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4ade80;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="barClip">
+      <rect x="20" y="90" width="780" height="28" rx="14" ry="14"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="820" height="200" rx="16" ry="16" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="30" y="38" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#e6edf3">📊 Most Used Languages</text>
+  <line x1="30" y1="48" x2="790" y2="48" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Subtitle labels row -->
+  <text x="30" y="72" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Language distribution across 50+ repositories</text>
+
+  <!-- Progress Bar Segments (total width 780px from x=20) -->
+  <!-- TypeScript: 42% → 327.6px -->
+  <rect x="20" y="90" width="327" height="28" rx="0" fill="url(#ts)" clip-path="url(#barClip)" filter="url(#glow)"/>
+  <!-- HTML: 26% → 202.8px -->
+  <rect x="347" y="90" width="203" height="28" rx="0" fill="url(#html)" clip-path="url(#barClip)"/>
+  <!-- CSS: 16% → 124.8px -->
+  <rect x="550" y="90" width="125" height="28" rx="0" fill="url(#css)" clip-path="url(#barClip)"/>
+  <!-- JavaScript: 10% → 78px -->
+  <rect x="675" y="90" width="78" height="28" rx="0" fill="url(#js)" clip-path="url(#barClip)"/>
+  <!-- Other: 6% → 47px -->
+  <rect x="753" y="90" width="47" height="28" rx="0" fill="url(#other)" clip-path="url(#barClip)"/>
+
+  <!-- Bar outer rounded border overlay -->
+  <rect x="20" y="90" width="780" height="28" rx="14" ry="14" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Legend Row -->
+  <!-- TypeScript -->
+  <rect x="30" y="142" width="12" height="12" rx="3" fill="url(#ts)"/>
+  <text x="48" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">TypeScript</text>
+  <text x="48" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">42.0%</text>
+
+  <!-- HTML -->
+  <rect x="175" y="142" width="12" height="12" rx="3" fill="url(#html)"/>
+  <text x="193" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">HTML</text>
+  <text x="193" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">26.0%</text>
+
+  <!-- CSS -->
+  <rect x="310" y="142" width="12" height="12" rx="3" fill="url(#css)"/>
+  <text x="328" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">CSS</text>
+  <text x="328" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">16.0%</text>
+
+  <!-- JavaScript -->
+  <rect x="440" y="142" width="12" height="12" rx="3" fill="url(#js)"/>
+  <text x="458" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">JavaScript</text>
+  <text x="458" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">10.0%</text>
+
+  <!-- Other -->
+  <rect x="620" y="142" width="12" height="12" rx="3" fill="url(#other)"/>
+  <text x="638" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">Other</text>
+  <text x="638" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">6.0%</text>
+</svg>
 
 </div>
 
@@ -201,7 +270,7 @@ const now = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/Snake.svg" alt="github contribution grid snake animation" />
+  <img alt="Snake animation" src="https://github.com/RidoanDev/RidoanDev/blob/main/Snake.svg" />
 </div>
 
 ---
@@ -213,103 +282,58 @@ const now = {
     <td width="50%">
       <h3>🛒 <a href="https://zupramart.netlify.app">ZupraMart</a></h3>
       <p>Full-featured e-commerce platform with product listings, cart, and checkout system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      </p>
     </td>
     <td width="50%">
       <h3>🚨 <a href="https://chor-koi.vercel.app">Chor Koi</a></h3>
       <p>Corruption alert platform empowering citizens to report and track corruption cases.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🎓 <a href="https://darpan-academy.netlify.app">Darpan Academy</a></h3>
       <p>EdTech platform providing quality educational resources and learning tools.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      </p>
     </td>
     <td width="50%">
       <h3>🩸 <a href="https://blood-mate.netlify.app">BloodMate</a></h3>
       <p>Blood management system connecting donors and recipients efficiently.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📱 <a href="https://micro-media.netlify.app">ZiptoGram</a></h3>
-      <p>Micro social media platform for sharing short posts and media content.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-      </p>
+      <p>Micro social media platform for sharing moments and connecting with others.</p>
     </td>
+    <td width="50%">
+      <h3>💼 <a href="https://ononnobit.vercel.app">OnonnoBit</a></h3>
+      <p>Web app development agency delivering impactful digital products for clients.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🌱 <a href="https://youthhope-bd.netlify.app">YouthHopeBD</a></h3>
       <p>Youth organization platform promoting community engagement and social impact.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>📝 <a href="https://zpad.netlify.app">Zpad</a></h3>
       <p>Clean, fast online notepad for quick notes and text management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🔄 <a href="https://uniconverter.netlify.app">UniConverter</a></h3>
-      <p>Universal converter tool for units, currencies, and data formats.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
+      <h3>🔄 <a href="https://uniconverter.netlify.app">UniConverter</a></h3>
+      <p>Universal converter tool for units, currencies, and data formats.</p>
+    </td>
+    <td width="50%">
       <h3>🏆 <a href="https://tournamention.netlify.app">Tournamention</a></h3>
       <p>Tournament management system for organizing brackets, teams, and scores.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🌐 <a href="https://ridoan-zisan.netlify.app">Portfolio</a></h3>
       <p>Personal portfolio showcasing projects, skills, and professional journey.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-      </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -467,10 +491,11 @@ const now = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ridoan--zisan-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://ridoan-zisan.netlify.app)
+[![OnonnoBit](https://img.shields.io/badge/Agency-OnonnoBit-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://ononnobit.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-RidoanDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ridoan--zisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
 [![Facebook](https://img.shields.io/badge/Facebook-ridoan.zisan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ridoan.zisan)
-[![Email](https://img.shields.io/badge/Email-ridoan.zisan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridoan.zisan@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B8801712525910-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801712525910)
 
 </div>
 
