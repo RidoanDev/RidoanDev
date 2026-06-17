@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a5e,100:0d0d2b&height=200&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20PWA%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a5e,100:0d0d2b&height=200&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%2C%20OnonnoBit%20%7C%20Web%20Developer%20%7C%20PWA%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/RidoanDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Md+Ridoan+Mahmud+Zisan+%F0%9F%91%8B;Web+%26+PWA+Application+Developer;HTML+%7C+TypeScript+%7C+Firebase+Expert;Building+Digital+Solutions+for+Bangladesh;50%2B+Projects+%26+Counting..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Md+Ridoan+Mahmud+Zisan+%F0%9F%91%8B;Founder+%26+CEO+of+OnonnoBit+Agency;Web+%26+PWA+Application+Developer;React+%7C+TypeScript+%7C+Firebase+Expert;Building+Digital+Solutions+for+Bangladesh;50%2B+Projects+%26+Counting..." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,9 +27,11 @@ const RidoanZisan = {
   location    : "Bogura, Bangladesh",
   email       : "ridoan.zisan@gmail.com",
   portfolio   : "https://ridoan-zisan.netlify.app",
+  role        : "Founder & CEO @ OnonnoBit",
+  agency      : "https://ononnobit.vercel.app",
   skills      : ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Firebase", "REST APIs", "Git", "GitHub"],
   deploys     : ["Netlify", "Vercel"],
-  builds      : ["Web Applications", "PWA Applications", "Websites"],
+  builds      : ["Web Applications", "PWA Applications", "Websites", "LMS", "E-commerce"],
   passion     : "Crafting impactful digital solutions for real-world problems",
   funFact     : "I started coding before I turned 16 — and never stopped 🚀"
 };
@@ -37,14 +39,27 @@ const RidoanZisan = {
 
 ---
 
-## 🚀 Currently
+## 🏢 OnonnoBit — Web Development Agency
+
+<div align="center">
+
+[![OnonnoBit](https://img.shields.io/badge/OnonnoBit-Agency-715EB4?style=for-the-badge&logo=vercel&logoColor=white)](https://ononnobit.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-OnonnoBit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnonnoBit)
+
+</div>
 
 ```typescript
-const now = {
-  learning    : ["Next.js", "Node.js", "PostgreSQL"],
-  building    : "Full-stack web apps with real-world impact",
-  exploring   : "Backend development & API design",
-  goal        : "Become a full-stack developer by end of 2025"
+const OnonnoBit = {
+  type        : "Custom Web App Development Agency",
+  location    : "Bogura, Bangladesh",
+  website     : "https://ononnobit.vercel.app",
+  github      : "https://github.com/OnonnoBit",
+  founder     : "Md Ridoan Mahmud Zisan",
+  services    : ["Custom Web Apps", "LMS Development", "E-commerce Solutions", "Business Tools", "PWA"],
+  techStack   : ["React", "TypeScript", "Firebase", "Tailwind CSS"],
+  clients     : ["Startups", "SMBs", "NGOs"],
+  pricing     : "Starting from ৳2,000 — Free consultation available",
+  mission     : "Building scalable, beautiful web applications for real-world impact"
 };
 ```
 
@@ -107,7 +122,7 @@ const now = {
     </td>
     <td align="center" width="96px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Node.js <i>(learning)</i></b></sub>
+      <sub><b>Node.js</b></sub>
     </td>
   </tr>
 </table>
@@ -464,6 +479,7 @@ const now = {
 
 <div align="center">
 
+[![OnonnoBit](https://img.shields.io/badge/Agency-OnonnoBit-715EB4?style=for-the-badge&logo=vercel&logoColor=white)](https://ononnobit.vercel.app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ridoan--zisan-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://ridoan-zisan.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-RidoanDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ridoan--zisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
