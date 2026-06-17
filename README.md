@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/RidoanDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Md+Ridoan+Mahmud+Zisan+%F0%9F%91%8B;Web+%26+PWA+Application+Developer;HTML+%7C+TypeScript+%7C+Firebase+Expert;Building+Digital+Solutions+for+Bangladesh;50%2B+Projects+%26+Counting..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Md+Ridoan+Mahmud+Zisan+%F0%9F%91%8B;Founder+%26+Developer+%40+OnonnoBit;Web+%26+PWA+Application+Developer;HTML+%7C+TypeScript+%7C+Firebase+Expert;Building+Digital+Solutions+for+Bangladesh;50%2B+Projects+%26+Counting..." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,19 +28,78 @@ const RidoanZisan = {
   phone       : "+8801712525910",
   email       : "ridoan.zisan@gmail.com",
   portfolio   : "https://ridoan-zisan.netlify.app",
-  agency      : {
-    name      : "OnonnoBit",
-    role      : "Founder & Developer",
-    url       : "https://ononnobit.vercel.app",
-    type      : "Web App Development Agency"
-  },
+
+  role        : "Founder & Developer @ OnonnoBit",
+  agency      : "https://ononnobit.vercel.app",
+  agencyDesc  : "Custom Web App Development Agency — React, TypeScript & Firebase",
+
   skills      : ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Firebase", "REST APIs", "Git", "GitHub"],
   deploys     : ["Netlify", "Vercel"],
-  builds      : ["Web Applications", "PWA Applications", "Websites"],
+  builds      : ["Web Applications", "PWA Applications", "LMS", "E-commerce", "Business Tools"],
   passion     : "Crafting impactful digital solutions for real-world problems",
   funFact     : "I started coding before I turned 16 — and never stopped 🚀"
 };
 ```
+
+<div align="center">
+  <a href="https://ononnobit.vercel.app">
+    <img src="https://img.shields.io/badge/🏢%20OnonnoBit-Web%20App%20Development%20Agency-715EB4?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+<!--  Manual Language Stats Bar Chart  -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320">
+  <!-- Background -->
+  <rect width="800" height="320" rx="12" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="32" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold" fill="#e6edf3" text-anchor="middle">Most Used Languages</text>
+
+  <!-- TypeScript -->
+  <rect x="40" y="60" width="720" height="0" fill="none"/>
+  <text x="40" y="76" font-family="Segoe UI, sans-serif" font-size="13" fill="#3178c6" font-weight="600">TypeScript</text>
+  <text x="760" y="76" font-family="Segoe UI, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">42%</text>
+  <rect x="40" y="82" width="720" height="14" rx="7" fill="#21262d"/>
+  <rect x="40" y="82" width="302" height="14" rx="7" fill="#3178c6"/>
+
+  <!-- HTML -->
+  <text x="40" y="120" font-family="Segoe UI, sans-serif" font-size="13" fill="#e34c26" font-weight="600">HTML</text>
+  <text x="760" y="120" font-family="Segoe UI, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">22%</text>
+  <rect x="40" y="126" width="720" height="14" rx="7" fill="#21262d"/>
+  <rect x="40" y="126" width="158" height="14" rx="7" fill="#e34c26"/>
+
+  <!-- CSS -->
+  <text x="40" y="164" font-family="Segoe UI, sans-serif" font-size="13" fill="#563d7c" font-weight="600">CSS</text>
+  <text x="760" y="164" font-family="Segoe UI, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">16%</text>
+  <rect x="40" y="170" width="720" height="14" rx="7" fill="#21262d"/>
+  <rect x="40" y="170" width="115" height="14" rx="7" fill="#563d7c"/>
+
+  <!-- JavaScript -->
+  <text x="40" y="208" font-family="Segoe UI, sans-serif" font-size="13" fill="#f1e05a" font-weight="600">JavaScript</text>
+  <text x="760" y="208" font-family="Segoe UI, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">12%</text>
+  <rect x="40" y="214" width="720" height="14" rx="7" fill="#21262d"/>
+  <rect x="40" y="214" width="86" height="14" rx="7" fill="#f1e05a"/>
+
+  <!-- JSON / Config -->
+  <text x="40" y="252" font-family="Segoe UI, sans-serif" font-size="13" fill="#40bf6a" font-weight="600">JSON / Config</text>
+  <text x="760" y="252" font-family="Segoe UI, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">5%</text>
+  <rect x="40" y="258" width="720" height="14" rx="7" fill="#21262d"/>
+  <rect x="40" y="258" width="36" height="14" rx="7" fill="#40bf6a"/>
+
+  <!-- Other -->
+  <text x="40" y="296" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681" font-weight="600">Other</text>
+  <text x="760" y="296" font-family="Segoe UI, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">3%</text>
+  <rect x="40" y="302" width="720" height="14" rx="7" fill="#21262d"/>
+  <rect x="40" y="302" width="22" height="14" rx="7" fill="#6e7681"/>
+</svg>
+
+</div>
 
 ---
 
@@ -152,109 +211,6 @@ const RidoanZisan = {
 
 ---
 
-## 📊 Most Used Languages
-
-<div align="center">
-
-<!--
-  SVG Language Graph — manually crafted
-  Languages based on project stack: TypeScript, HTML, CSS, JavaScript, JSX/TSX
--->
-
-<svg width="820" height="200" viewBox="0 0 820 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most Used Languages">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="ts" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3178c6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="html" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e34c26;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f97316;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="css" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#563d7c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="js" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f1e05a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="other" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2ea043;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4ade80;stop-opacity:1" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <clipPath id="barClip">
-      <rect x="20" y="90" width="780" height="28" rx="14" ry="14"/>
-    </clipPath>
-  </defs>
-
-  <!-- Card Background -->
-  <rect width="820" height="200" rx="16" ry="16" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1"/>
-
-  <!-- Title -->
-  <text x="30" y="38" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#e6edf3">📊 Most Used Languages</text>
-  <line x1="30" y1="48" x2="790" y2="48" stroke="#21262d" stroke-width="1"/>
-
-  <!-- Subtitle labels row -->
-  <text x="30" y="72" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Language distribution across 50+ repositories</text>
-
-  <!-- Progress Bar Segments (total width 780px from x=20) -->
-  <!-- TypeScript: 42% → 327.6px -->
-  <rect x="20" y="90" width="327" height="28" rx="0" fill="url(#ts)" clip-path="url(#barClip)" filter="url(#glow)"/>
-  <!-- HTML: 26% → 202.8px -->
-  <rect x="347" y="90" width="203" height="28" rx="0" fill="url(#html)" clip-path="url(#barClip)"/>
-  <!-- CSS: 16% → 124.8px -->
-  <rect x="550" y="90" width="125" height="28" rx="0" fill="url(#css)" clip-path="url(#barClip)"/>
-  <!-- JavaScript: 10% → 78px -->
-  <rect x="675" y="90" width="78" height="28" rx="0" fill="url(#js)" clip-path="url(#barClip)"/>
-  <!-- Other: 6% → 47px -->
-  <rect x="753" y="90" width="47" height="28" rx="0" fill="url(#other)" clip-path="url(#barClip)"/>
-
-  <!-- Bar outer rounded border overlay -->
-  <rect x="20" y="90" width="780" height="28" rx="14" ry="14" fill="none" stroke="#30363d" stroke-width="1"/>
-
-  <!-- Legend Row -->
-  <!-- TypeScript -->
-  <rect x="30" y="142" width="12" height="12" rx="3" fill="url(#ts)"/>
-  <text x="48" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">TypeScript</text>
-  <text x="48" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">42.0%</text>
-
-  <!-- HTML -->
-  <rect x="175" y="142" width="12" height="12" rx="3" fill="url(#html)"/>
-  <text x="193" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">HTML</text>
-  <text x="193" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">26.0%</text>
-
-  <!-- CSS -->
-  <rect x="310" y="142" width="12" height="12" rx="3" fill="url(#css)"/>
-  <text x="328" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">CSS</text>
-  <text x="328" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">16.0%</text>
-
-  <!-- JavaScript -->
-  <rect x="440" y="142" width="12" height="12" rx="3" fill="url(#js)"/>
-  <text x="458" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">JavaScript</text>
-  <text x="458" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">10.0%</text>
-
-  <!-- Other -->
-  <rect x="620" y="142" width="12" height="12" rx="3" fill="url(#other)"/>
-  <text x="638" y="153" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e6edf3" font-weight="600">Other</text>
-  <text x="638" y="168" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">6.0%</text>
-</svg>
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -270,7 +226,7 @@ const RidoanZisan = {
 </div>
 
 <div align="center">
-  <img alt="Snake animation" src="https://github.com/RidoanDev/RidoanDev/blob/main/Snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/RidoanDev/RidoanDev/blob/main/Snake.svg" />
 </div>
 
 ---
@@ -280,66 +236,103 @@ const RidoanZisan = {
 <table>
   <tr>
     <td width="50%">
-      <h3>🛒 <a href="https://zupramart.netlify.app">ZupraMart</a></h3>
-      <p>Full-featured e-commerce platform with product listings, cart, and checkout system.</p>
+      <h3>🏢 <a href="https://ononnobit.vercel.app">OnonnoBit</a></h3>
+      <p>My own web app development agency offering custom React, TypeScript & Firebase solutions for startups, SMBs & NGOs across Bangladesh. Transparent pricing, starting from ৳2,000.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
     </td>
+    <td width="50%">
+      <h3>🛒 <a href="https://zupramart.netlify.app">ZupraMart</a></h3>
+      <p>Full-featured e-commerce platform with product listings, cart system, real-time inventory, and seamless checkout — built for modern online retail.</p>
+      <p>
+        <img src="https://img.shields.io/badge/E--Commerce-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-Realtime-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🚨 <a href="https://chor-koi.vercel.app">Chor Koi</a></h3>
-      <p>Corruption alert platform empowering citizens to report and track corruption cases.</p>
+      <p>Civic tech platform empowering citizens to report, track, and expose corruption cases with anonymity — fighting corruption one report at a time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Civic-Tech-2563eb?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-PWA-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🎓 <a href="https://darpan-academy.netlify.app">Darpan Academy</a></h3>
-      <p>EdTech platform providing quality educational resources and learning tools.</p>
-    </td>
-    <td width="50%">
-      <h3>🩸 <a href="https://blood-mate.netlify.app">BloodMate</a></h3>
-      <p>Blood management system connecting donors and recipients efficiently.</p>
+      <p>EdTech LMS platform providing quality educational resources, interactive courses, and learning tools for students across Bangladesh.</p>
+      <p>
+        <img src="https://img.shields.io/badge/EdTech-LMS-16a34a?style=flat-square&logo=academia&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📱 <a href="https://micro-media.netlify.app">ZiptoGram</a></h3>
-      <p>Micro social media platform for sharing moments and connecting with others.</p>
+      <h3>🩸 <a href="https://blood-mate.netlify.app">BloodMate</a></h3>
+      <p>Life-saving blood management system connecting donors and recipients in real time — helping hospitals and patients find the right blood type fast.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Healthcare-App-ef4444?style=flat-square&logo=heart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-Geolocation-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
     </td>
     <td width="50%">
-      <h3>💼 <a href="https://ononnobit.vercel.app">OnonnoBit</a></h3>
-      <p>Web app development agency delivering impactful digital products for clients.</p>
+      <h3>📱 <a href="https://micro-media.netlify.app">ZiptoGram</a></h3>
+      <p>Social media PWA with stories, posts, real-time feed, and user profiles — a lightweight Instagram-inspired experience built entirely in TypeScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Social-PWA-a855f7?style=flat-square&logo=pwa&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-Firebase-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🌱 <a href="https://youthhope-bd.netlify.app">YouthHopeBD</a></h3>
-      <p>Youth organization platform promoting community engagement and social impact.</p>
-    </td>
-    <td width="50%">
-      <h3>📝 <a href="https://zpad.netlify.app">Zpad</a></h3>
-      <p>Clean, fast online notepad for quick notes and text management.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔄 <a href="https://uniconverter.netlify.app">UniConverter</a></h3>
-      <p>Universal converter tool for units, currencies, and data formats.</p>
+      <p>Youth organization platform promoting community engagement, volunteering, and social impact initiatives across Bangladesh.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NGO-Platform-22c55e?style=flat-square&logo=leaf&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-Responsive-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
     </td>
     <td width="50%">
       <h3>🏆 <a href="https://tournamention.netlify.app">Tournamention</a></h3>
-      <p>Tournament management system for organizing brackets, teams, and scores.</p>
+      <p>Tournament management system for organizing brackets, teams, scores, and live results — perfect for esports, sports clubs, and competitions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Sports-Management-f59e0b?style=flat-square&logo=trophy&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌐 <a href="https://ridoan-zisan.netlify.app">Portfolio</a></h3>
-      <p>Personal portfolio showcasing projects, skills, and professional journey.</p>
+      <h3>📝 <a href="https://zpad.netlify.app">Zpad</a></h3>
+      <p>Clean, distraction-free online notepad with auto-save, markdown support, and instant sync — perfect for quick notes on any device.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Productivity-App-64748b?style=flat-square&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-Offline--Ready-7c3aed?style=flat-square&logo=pwa&logoColor=white" />
+      </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h3>🔄 <a href="https://uniconverter.netlify.app">UniConverter</a></h3>
+      <p>Universal converter tool for units, currencies, and data formats — all in one clean interface with instant real-time results.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Utility-Tool-0ea5e9?style=flat-square&logo=convert&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-REST--API-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+    </td>
   </tr>
 </table>
 
 <div align="center">
   <a href="https://ridoan-zisan.netlify.app/blog">
     <img src="https://img.shields.io/badge/View%20All%2050%2B%20Projects-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://ononnobit.vercel.app">
+    <img src="https://img.shields.io/badge/Hire%20Us%20%40%20OnonnoBit-715EB4?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
@@ -491,7 +484,7 @@ const RidoanZisan = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ridoan--zisan-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://ridoan-zisan.netlify.app)
-[![OnonnoBit](https://img.shields.io/badge/Agency-OnonnoBit-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://ononnobit.vercel.app)
+[![OnonnoBit](https://img.shields.io/badge/Agency-OnonnoBit-715EB4?style=for-the-badge&logo=vercel&logoColor=white)](https://ononnobit.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-RidoanDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ridoan--zisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
 [![Facebook](https://img.shields.io/badge/Facebook-ridoan.zisan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ridoan.zisan)
