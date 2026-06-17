@@ -156,12 +156,6 @@ const RidoanZisan = {
 
 <img width="100%" src="./lang-chart.svg" alt="Most Used Languages Chart" />
 
-<br/><br/>
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380" alt="Top Languages" />
-&nbsp;
-<img width="46%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RidoanDev&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Time" />
-
 </div>
 
 ---
