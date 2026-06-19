@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a5e,100:0d0d2b&height=200&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20PWA%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a5e,100:0d0d2b&height=200&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Application%20Developer%20%7C%20PWA%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/RidoanDev">
