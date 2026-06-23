@@ -21,7 +21,7 @@
 ## 👤 About Me
 
 ```typescript
-const RidoanZisan = {
+const Md Ridoan Mahmud Zisan = {
   name        : "Md Ridoan Mahmud Zisan",
   born        : "31 December 2007",
   location    : "Bogura, Bangladesh",
