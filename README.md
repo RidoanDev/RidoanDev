@@ -78,92 +78,47 @@ const OnonnoBit = {
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Frontend
-
 <table>
   <tr>
     <td align="center" width="96px">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <img src="https://vitejs.dev/logo.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Vite</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Tailwind CSS</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>shadcn/ui</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Radix UI</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔥 Backend
-
-<table>
-  <tr>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Firebase</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>REST API</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Hosting & Deployment
-
-<table>
-  <tr>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Vercel</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Netlify</b></sub>
     </td>
-  </tr>
-</table>
-
----
-
-### 🧰 Tools & Environment
-
-<table>
-  <tr>
     <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
       <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>npm</b></sub>
     </td>
   </tr>
 </table>
