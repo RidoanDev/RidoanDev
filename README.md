@@ -42,6 +42,40 @@ const Md Ridoan Mahmud Zisan = {
 
 ---
 
+## 🏢 OnonnoBit — My Agency
+
+<div align="center">
+<img src="https://ononnobit.vercel.app/icon.png" width="100" style="border-radius:16px;" alt="OnonnoBit Logo" />
+</div>
+
+```typescript
+const OnonnoBit = {
+  name      : "OnonnoBit",
+  type      : "Custom Web App Development Agency",
+  location  : "Bogura, Bangladesh (Remote)",
+  website   : "https://ononnobit.vercel.app",
+  email     : "ononnobit@gmail.com",
+  phone     : "+8809638845910",
+  whatsapp  : "+8801712525910",
+  services  : ["Custom Web App Development", "LMS Solutions", "E-commerce Solutions", "Business Solutions", "SEO", "AEO", "GEO"]
+};
+```
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-OnonnoBit-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ononnobit.vercel.app)
+[![Email](https://img.shields.io/badge/Email-ononnobit-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ononnobit@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801712525910-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801712525910)
+[![GitHub](https://img.shields.io/badge/GitHub-ononnobit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ononnobit)
+[![Facebook](https://img.shields.io/badge/Facebook-ononnobit-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ononnobit)
+[![Instagram](https://img.shields.io/badge/Instagram-ononnobit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ononnobit)
+[![X](https://img.shields.io/badge/X-ononnobit-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ononnobit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ononnobit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/ononnobit)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend
@@ -439,6 +473,7 @@ const Md Ridoan Mahmud Zisan = {
 <div align="center">
 
 [![OnonnoBit](https://img.shields.io/badge/Agency-OnonnoBit-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ononnobit.vercel.app)
+[![Agency%20Email](https://img.shields.io/badge/Agency%20Email-ononnobit-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ononnobit@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ridoan--zisan-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://ridoan-zisan.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-RidoanDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ridoan--zisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
