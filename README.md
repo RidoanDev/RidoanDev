@@ -174,7 +174,7 @@ const OnonnoBit = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://zupramart.netlify.app">BitQraft</a></h3>
+      <h3>🛒 <a href="https://bitqraft.netlify.app">BitQraft</a></h3>
       <p>Full-featured e-commerce platform with product listings, cart, and checkout system.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -190,7 +190,7 @@ const OnonnoBit = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 <a href="https://darpan-academy.netlify.app">UpCoach</a></h3>
+      <h3>🎓 <a href="https://upcoach.netlify.app">UpCoach</a></h3>
       <p>EdTech platform providing quality educational resources and learning tools.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
