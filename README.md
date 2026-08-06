@@ -20,23 +20,28 @@
 
 ## 👤 About Me
 
-```typescript
-const ridoanZisan = {
-  name        : "Md Ridoan Mahmud Zisan",
-  location    : "Bogura, Bangladesh",
-  role        : "Founder & Web Application Developer @ OnonnoBit",
-  agency      : "https://ononnobit.vercel.app",
-  phone       : "+8801712525910",
-  email       : "ridoan.zisan@gmail.com",
-  portfolio   : "https://ridoan-zisan.netlify.app",
-  skills      : ["React (TS)", "TypeScript", "TanStack", "Kotlin", "Java", "Vite", "Tailwind CSS", "HTML5 & CSS3", "JavaScript", "Firebase", "REST APIs", "Git", "GitHub"],
-  deploys     : ["Netlify", "Vercel"],
-  builds      : ["Web Applications", "Android Apps", "LMS Platforms", "E-commerce Systems"],
-  passion     : "Crafting impactful digital solutions for real-world problems"
-};
-```
+Hi, I'm **Md Ridoan Mahmud Zisan** — a Web Application Developer based in Bogura, Bangladesh, and the founder of **OnonnoBit**.
 
+- 📍 **Location:** Bogura, Bangladesh
+- 💼 **Role:** Founder & Web Application Developer @ OnonnoBit
+- 🌐 **Agency:** [ononnobit.vercel.app](https://ononnobit.vercel.app)
+- 🎨 **Portfolio:** [ridoan-zisan.netlify.app](https://ridoan-zisan.netlify.app)
+- 🛠️ **Skills:** React (TS), TypeScript, TanStack, Kotlin, Java, Vite, Tailwind CSS, HTML5 & CSS3, JavaScript, Firebase, REST APIs, Git, GitHub
+- 🚀 **Deploys on:** Netlify, Vercel
+- 🏗️ **Builds:** Web Applications, Android Apps, LMS Platforms, E-commerce Systems
+- 💡 **Passion:** Crafting impactful digital solutions for real-world problems
 
+<div align="center">
+
+<a href="mailto:ridoan.zisan@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/D14836" width="40" height="40" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://wa.me/8801712525910" title="WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" /></a>&nbsp;&nbsp;
+<a href="https://github.com/RidoanDev" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ridoan-zisan" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://facebook.com/ridoan.zisan" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" /></a>&nbsp;&nbsp;
+<a href="https://youtube.com/@ridoan-zisan" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" height="40" alt="YouTube" /></a>&nbsp;&nbsp;
+<a href="https://ridoan-zisan.netlify.app" title="Portfolio"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="40" height="40" alt="Portfolio" /></a>
+
+</div>
 
 ---
 
@@ -46,26 +51,23 @@ const ridoanZisan = {
 <img src="https://ononnobit.vercel.app/icon.png" width="100" style="border-radius:16px;" alt="OnonnoBit Logo" />
 </div>
 
-```typescript
-const OnonnoBit = {
-  name      : "OnonnoBit",
-  type      : "Custom Web App Development Agency",
-  location  : "Bogura, Bangladesh (Remote)",
-  website   : "https://ononnobit.vercel.app",
-  email     : "ononnobit@gmail.com",
-  whatsapp  : "+8801763822211",
-  services  : ["Custom Web App Development", "LMS Solutions", "E-commerce Solutions", "Business Management Systems", "SEO", "AEO", "GEO"]
-};
-```
+**OnonnoBit** is a custom web application development agency based in Bogura, Bangladesh, working remotely with clients worldwide.
+
+- 🏷️ **Type:** Custom Web App Development Agency
+- 📍 **Location:** Bogura, Bangladesh (Remote)
+- 🌐 **Website:** [ononnobit.vercel.app](https://ononnobit.vercel.app)
+- ✉️ **Email:** ononnobit@gmail.com
+- 📱 **WhatsApp:** +8801763822211
+- 🧩 **Services:** Custom Web App Development, LMS Solutions, E-commerce Solutions, Business Management Systems, SEO, AEO, GEO
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-OnonnoBit-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ononnobit.vercel.app)
-[![Email](https://img.shields.io/badge/Email-ononnobit-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ononnobit@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801763822211-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801763822211)
-[![GitHub](https://img.shields.io/badge/GitHub-ononnobit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ononnobit)
-[![Facebook](https://img.shields.io/badge/Facebook-ononnobit-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ononnobit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ononnobit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/ononnobit)
+<a href="https://ononnobit.vercel.app" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="Website" /></a>&nbsp;&nbsp;
+<a href="mailto:ononnobit@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/D14836" width="40" height="40" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://wa.me/8801763822211" title="WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" /></a>&nbsp;&nbsp;
+<a href="https://github.com/ononnobit" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://facebook.com/ononnobit" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/company/ononnobit" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" /></a>
 
 </div>
 
@@ -386,14 +388,14 @@ const OnonnoBit = {
 
 <div align="center">
 
-[![OnonnoBit](https://img.shields.io/badge/Agency-OnonnoBit-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ononnobit.vercel.app)
-[![Agency%20Email](https://img.shields.io/badge/Agency%20Email-ononnobit-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ononnobit@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ridoan--zisan-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://ridoan-zisan.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-RidoanDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ridoan--zisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
-[![Facebook](https://img.shields.io/badge/Facebook-ridoan.zisan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ridoan.zisan)
-[![YouTube](https://img.shields.io/badge/YouTube-ridoan--zisan-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ridoan-zisan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801712525910-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801712525910)
+<a href="https://ononnobit.vercel.app" title="OnonnoBit Agency"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="45" height="45" alt="Agency" /></a>&nbsp;&nbsp;
+<a href="mailto:ononnobit@gmail.com" title="Agency Email"><img src="https://cdn.simpleicons.org/gmail/D14836" width="45" height="45" alt="Agency Email" /></a>&nbsp;&nbsp;
+<a href="https://ridoan-zisan.netlify.app" title="Portfolio"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" height="45" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="https://github.com/RidoanDev" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" width="45" height="45" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ridoan-zisan" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://facebook.com/ridoan.zisan" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" alt="Facebook" /></a>&nbsp;&nbsp;
+<a href="https://youtube.com/@ridoan-zisan" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" height="45" alt="YouTube" /></a>&nbsp;&nbsp;
+<a href="https://wa.me/8801712525910" title="WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp" /></a>
 
 </div>
 
