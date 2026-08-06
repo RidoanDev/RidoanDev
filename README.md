@@ -36,7 +36,7 @@ const ridoanZisan = {
 };
 ```
 
-> 🏢 I'm the **Founder & Web Application Developer of [OnonnoBit](https://ononnobit.vercel.app)** — a custom web app development agency based in Bogura, Bangladesh, building scalable React, TypeScript & Firebase apps (LMS, e-commerce, business tools) for startups, SMBs & NGOs.
+
 
 ---
 
@@ -150,25 +150,6 @@ const OnonnoBit = {
 
 </div>
 
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RidoanDev&theme=onestar&no-frame=true&column=7&margin-w=10" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -176,9 +157,6 @@ const OnonnoBit = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/2563eb/RidoanDev" alt="Md Ridoan Mahmud Zisan's GitHub contribution calendar" />
-</div>
 
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/Snake.svg" width="100%" />
