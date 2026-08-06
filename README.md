@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[👤 About](#-about-me) • [🛠️ Skills](#️-tech-stack--tools) • [📊 Stats](#-github-statistics--analytics) • [🚀 Projects](#-featured-projects) • [🏢 Agency](#-ononnobit--my-agency) • [🎓 Certifications](#-certifications) • [📬 Connect](#-lets-connect)
+[👤 About](#-about-me) • [🛠️ Skills](#️-tech-stack--tools) • [📊 Stats](#-github-statistics--analytics) • [🚀 Projects](#-featured-projects) • [🏢 Agency](#-ononnobit--my-agency) • [🎓 Certifications](#-certifications) • [❓ FAQ](#-faq) • [📬 Connect](#-lets-connect) • [☕ Support](#-support-my-work)
 
 </div>
 
@@ -54,20 +54,36 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&ring_color=60a5fa" alt="Ridoan's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" alt="GitHub Streak" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RidoanDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" alt="Contribution Graph" />
 </div>
 
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/Snake.svg" width="100%" />
 </div>
 
+<div align="right">
+  <a href="#-about-me"><sub>⬆ Back to top</sub></a>
+</div>
 
 ---
 
@@ -206,6 +222,9 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
   </a>
 </div>
 
+<div align="right">
+  <a href="#-about-me"><sub>⬆ Back to top</sub></a>
+</div>
 
 ---
 
@@ -242,6 +261,9 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
 
 </div>
 
+<div align="right">
+  <a href="#-about-me"><sub>⬆ Back to top</sub></a>
+</div>
 
 ---
 
@@ -384,6 +406,47 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
   </a>
 </div>
 
+<div align="right">
+  <a href="#-about-me"><sub>⬆ Back to top</sub></a>
+</div>
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>ফ্রিল্যান্স বা এজেন্সি — কোন হিসেবে কাজ নাও?</b></summary>
+<br/>
+দুটোই। ব্যক্তিগতভাবেও ফ্রিল্যান্স প্রজেক্ট নিই, আবার বড় বা টিম-ভিত্তিক কাজের জন্য <b>OnonnoBit</b> এজেন্সির মাধ্যমে ডেলিভার করি।
+</details>
+
+<details>
+<summary><b>কী ধরনের প্রজেক্ট নিয়ে কাজ করো?</b></summary>
+<br/>
+ওয়েব অ্যাপ, PWA, LMS প্ল্যাটফর্ম, ই-কমার্স সিস্টেম, বিজনেস ম্যানেজমেন্ট টুল এবং Android অ্যাপ — মূলত React (TypeScript), Firebase, ও Kotlin/Java স্ট্যাকে।
+</details>
+
+<details>
+<summary><b>আন্তর্জাতিক ক্লায়েন্টদের সাথে কাজ করো?</b></summary>
+<br/>
+হ্যাঁ। বাংলাদেশ থেকে কাজ করলেও ক্লায়েন্ট থাকে বিশ্বজুড়ে। যোগাযোগ ইমেইল, WhatsApp — যেকোনো মাধ্যমে করা যায়।
+</details>
+
+<details>
+<summary><b>প্রজেক্টের জন্য কোট বা এস্টিমেট কীভাবে পাব?</b></summary>
+<br/>
+<a href="mailto:ononnobit@gmail.com">ononnobit@gmail.com</a>-এ প্রজেক্টের সংক্ষিপ্ত বিবরণ পাঠাও অথবা <a href="https://wa.me/8801763822211">WhatsApp</a>-এ মেসেজ করো — সাধারণত ২৪-৪৮ ঘণ্টার মধ্যে রিপ্লাই পাবে।
+</details>
+
+<details>
+<summary><b>শুধু ডেভেলপমেন্ট, নাকি SEO/হোস্টিং-ও করো?</b></summary>
+<br/>
+ডেভেলপমেন্টের পাশাপাশি SEO, AEO, GEO অপ্টিমাইজেশন এবং Vercel/Netlify-তে ডিপ্লয়মেন্ট — পুরো প্রসেসটাই কাভার করি।
+</details>
+
+<div align="right">
+  <a href="#-about-me"><sub>⬆ Back to top</sub></a>
+</div>
 
 ---
 
@@ -405,6 +468,24 @@ Have a project in mind, or just want to talk web apps, PWAs, or Firebase archite
 
 </div>
 
+---
+
+## ☕ Support My Work
+
+<p align="center">
+আমার ওপেন-সোর্স প্রজেক্ট বা কাজ ভালো লাগলে, একটা কফি খাওয়াতে পারো — এটা সামনের প্রজেক্টগুলোতে আরও সময় দিতে অনুপ্রাণিত করে 🙌
+</p>
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/ridoanzisan"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" title="Buy Me a Coffee" /></a>
+<a href="https://github.com/sponsors/RidoanDev"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" title="GitHub Sponsors" /></a>
+
+</div>
+
+<div align="right">
+  <a href="#-about-me"><sub>⬆ Back to top</sub></a>
+</div>
 
 ---
 
