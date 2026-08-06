@@ -31,50 +31,46 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
 
 ---
 
+## 🏢 OnonnoBit — My Agency
+
+<div align="center">
+<img src="https://ononnobit.vercel.app/icon.png" width="90" style="border-radius:20px;" alt="OnonnoBit Logo" />
+
+**Custom Web App Development Agency**
+<br/>
+<sub>Based in Bogura, Bangladesh — building for clients worldwide</sub>
+
+</div>
+
+<p align="center">
+<b>OnonnoBit</b> builds custom web applications, LMS platforms, e-commerce systems, and business management tools — engineered with a strong focus on <b>SEO, AEO, and GEO</b> so businesses actually get found online.
+</p>
+
+<div align="center">
+
+| 🌐 Web Apps | 🎓 LMS Platforms | 🛒 E-Commerce | 📊 Business Systems | 🔍 SEO / AEO / GEO |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<div align="center">
+
+<a href="https://ononnobit.vercel.app"><img src="https://img.shields.io/badge/Visit%20Website-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" title="Website" /></a>
+<a href="mailto:ononnobit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
+<a href="https://wa.me/8801763822211"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" /></a>
+<a href="https://github.com/ononnobit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" /></a>
+<a href="https://facebook.com/ononnobit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" title="Facebook" /></a>
+<a href="https://linkedin.com/company/ononnobit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,kotlin,java,firebase,git,github,vercel,netlify&theme=dark" alt="Tech Stack Icons" />
-
-</div>
-
----
-
-## 🏢 OnonnoBit — My Agency
-
-<div align="center">
-<img src="https://ononnobit.vercel.app/icon.png" width="100" style="border-radius:16px;" alt="OnonnoBit Logo" />
-</div>
-
-<p align="center">
-<b>OnonnoBit</b> is a custom web app development agency based in Bogura, Bangladesh, working remotely with clients everywhere. We build custom web applications, LMS solutions, e-commerce platforms, and business management systems — with a strong focus on SEO, AEO, and GEO to help businesses get found.
-</p>
-
-<div align="center">
-
-<a href="https://ononnobit.vercel.app"><img src="https://img.shields.io/badge/-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" title="Website" /></a>
-<a href="mailto:ononnobit@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
-<a href="https://wa.me/8801763822211"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" /></a>
-<a href="https://github.com/ononnobit"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" /></a>
-<a href="https://facebook.com/ononnobit"><img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" title="Facebook" /></a>
-<a href="https://linkedin.com/company/ononnobit"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
-
-</div>
-
----
-
-## 📬 Contact & Social Media
-
-<div align="center">
-
-<a href="mailto:ridoan.zisan@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
-<a href="https://wa.me/8801712525910"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" /></a>
-<a href="https://github.com/RidoanDev"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" /></a>
-<a href="https://linkedin.com/in/ridoan-zisan"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
-<a href="https://facebook.com/ridoan.zisan"><img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" title="Facebook" /></a>
-<a href="https://youtube.com/@ridoan-zisan"><img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" title="YouTube" /></a>
-<a href="https://ridoan-zisan.netlify.app"><img src="https://img.shields.io/badge/-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" title="Portfolio" /></a>
 
 </div>
 
@@ -374,6 +370,26 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
   <a href="https://ridoan-zisan.netlify.app/#certificates">
     <img src="https://img.shields.io/badge/View%20All%20Certificates-16a34a?style=for-the-badge&logo=academia&logoColor=white" />
   </a>
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+Have a project in mind, or just want to talk web apps, PWAs, or Firebase architecture? Reach out below 👇
+</p>
+
+<div align="center">
+
+<a href="mailto:ridoan.zisan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
+<a href="https://wa.me/8801712525910"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" /></a>
+<a href="https://github.com/RidoanDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" /></a>
+<a href="https://linkedin.com/in/ridoan-zisan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://facebook.com/ridoan.zisan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" title="Facebook" /></a>
+<a href="https://youtube.com/@ridoan-zisan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" title="YouTube" /></a>
+<a href="https://ridoan-zisan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" title="Portfolio" /></a>
+
 </div>
 
 ---
