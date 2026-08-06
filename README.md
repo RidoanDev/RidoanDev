@@ -25,7 +25,7 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
 - 🎓 Currently building and scaling **OnonnoBit**, a custom web app development agency
 - 💻 Core stack: **React (TypeScript), TanStack, Kotlin, Java, Vite, Tailwind CSS, Firebase, REST APIs**
 - 🚀 Deploys on **Vercel** and **Netlify**
-- 🌱 15+ projects and counting
+- 🌱 **15+ projects** and counting
 - 📍 Bogura, Bangladesh
 - 💬 Always happy to talk about web apps, PWAs, or Firebase architecture
 
@@ -34,13 +34,13 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
 ## 🏢 OnonnoBit — My Agency
 
 <div align="center">
-<img src="https://ononnobit.vercel.app/icon.png" width="90" style="border-radius:20px;" alt="OnonnoBit Logo" />
-
-**Custom Web App Development Agency**
-<br/>
-<sub>Based in Bogura, Bangladesh — building for clients worldwide</sub>
-
+  <img src="https://ononnobit.vercel.app/icon.png" width="90" style="border-radius:20px;" alt="OnonnoBit Logo" />
+  <br/>
+  <h3><b>Custom Web App Development Agency</b></h3>
+  <sub>Based in Bogura, Bangladesh — Building high-performance digital solutions for clients worldwide 🌐</sub>
 </div>
+
+<br/>
 
 <p align="center">
 <b>OnonnoBit</b> builds custom web applications, LMS platforms, e-commerce systems, and business management tools — engineered with a strong focus on <b>SEO, AEO, and GEO</b> so businesses actually get found online.
@@ -53,14 +53,18 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
 
 </div>
 
+<br/>
+
+### 🔗 Connect with OnonnoBit
+
 <div align="center">
 
-<a href="https://ononnobit.vercel.app"><img src="https://img.shields.io/badge/Visit%20Website-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" title="Website" /></a>
-<a href="mailto:ononnobit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
-<a href="https://wa.me/8801763822211"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" /></a>
-<a href="https://github.com/ononnobit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" /></a>
-<a href="https://facebook.com/ononnobit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" title="Facebook" /></a>
-<a href="https://linkedin.com/company/ononnobit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://ononnobit.vercel.app"><img src="https://img.shields.io/badge/Website-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="mailto:ononnobit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/8801763822211"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://github.com/ononnobit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://facebook.com/ononnobit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://linkedin.com/company/ononnobit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -176,7 +180,7 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 <a href="https://ononnobit.vercel.app">Ononnobit</a></h3>
+      <h3>🏢 <a href="https://ononnobit.vercel.app">OnonnoBit</a></h3>
       <p>Agency website showcasing services and portfolio of OnonnoBit.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -213,7 +217,7 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Analytics
 
 <div align="center">
 
@@ -221,7 +225,7 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
 
 </div>
 
-## 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
@@ -377,7 +381,7 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer based in Bogura, Ban
 ## 📬 Let's Connect
 
 <p align="center">
-Have a project in mind, or just want to talk web apps, PWAs, or Firebase architecture? Reach out below 👇
+Have a project in mind, or just want to discuss web apps, PWAs, or Firebase architecture? Feel free to reach out directly through any of the platforms below! 👇
 </p>
 
 <div align="center">
