@@ -1,94 +1,41 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Md Ridoan Mahmud Zisan</h1>
+<h3 align="center">Founder & Web Application Developer at OnonnoBit</h3>
 
-<img src="https://ridoan-zisan.netlify.app/profile.jpg" width="140" height="140" style="border-radius:50%;" alt="Md Ridoan Mahmud Zisan"/>
+<p align="center">
+  <img src="https://ridoan-zisan.netlify.app/profile.jpg" width="140" style="border-radius:50%" alt="Ridoan Zisan"/>
+</p>
 
-# Md Ridoan Mahmud Zisan
-
-### Founder & Web Application Developer @ [OnonnoBit](https://ononnobit.vercel.app)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+Kotlin;Founder+of+OnonnoBit+Agency;Building+LMS%2C+E-commerce+%26+SaaS+Products" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ridoan-zisan.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridoan-zisan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridoan.zisan@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ridoan.zisan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801712525910)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ridoan-zisan)
-
-</div>
+<p align="center">
+  <a href="https://ridoan-zisan.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ridoan-zisan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/RidoanDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ridoan.zisan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/ridoan.zisan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://wa.me/8801712525910" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://youtube.com/@ridoan-zisan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 ---
 
-## 👋 About Me
+### 🧑‍💻 About Me
 
-I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer and the **Founder of OnonnoBit**, a custom web app development agency based in Bogura, Bangladesh (working remotely worldwide). I specialize in building full-stack web & mobile products — from LMS platforms and e-commerce systems to business management tools — using modern technologies like **React, TypeScript, Kotlin, and Firebase**.
-
-- 🚀 Founder & Lead Developer at [OnonnoBit](https://ononnobit.vercel.app)
-- 💻 Building production-grade apps with React (TS), TanStack, Kotlin & Firebase
-- 🌱 Currently exploring AI-powered product development
-- 📍 Based in Bogura, Bangladesh — available for remote work
+- 🚀 Founder & Web Application Developer at **[OnonnoBit](https://ononnobit.vercel.app)** — a custom web app development agency
+- 🛠️ I build modern **web & Android applications** — LMS, e-commerce, business management systems, and more
+- 🌱 Passionate about clean architecture, great UX, and scalable products
+- 📍 Based in **Bogura, Bangladesh** (working remotely, worldwide)
 - 📫 Reach me at **ridoan.zisan@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,kotlin,java,vite,tailwind,html,css,js,firebase,git,github,vercel,netlify" />
+</p>
 
 ---
 
-## 📊 GitHub Stats & Commit Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-### 📈 Full Commit / Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true" alt="Commit Activity Graph" width="95%"/>
-
-### 🔥 Contribution Calendar
-
-<img src="https://ghchart.rshah.org/2E9EF7/RidoanDev" alt="Ridoan's GitHub Contribution Chart" width="95%"/>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=RidoanDev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RidoanDev&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-> 💡 **Note:** The widgets above (stats, streak, activity graph, contribution chart, trophies, and profile views) update automatically and pull your **full live commit history** directly from the GitHub API — no manual updates needed.
-
----
-
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Link |
 |---|---|---|
@@ -101,72 +48,66 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer and the **Founder of
 | 📦 **Zisan Trader** | Inventory Management System | [Visit](https://zisan-trader.netlify.app) |
 | 🩸 **BOBDO** | Blood Donation Organization Website | [Visit](https://bobdo.vercel.app) |
 | 📄 **ResumeXora** | Resume Builder | [Visit](https://resumexora.vercel.app) |
-| 🔄 **UniConverter** | Universal Converter | [Visit](https://uniconverter.netlify.app) |
+| 🔁 **UniConverter** | Universal Converter | [Visit](https://uniconverter.netlify.app) |
 | 💳 **UniTopUp** | TopUp Platform | [Visit](https://unitopup.vercel.app) |
 | 🌱 **YouthHope BD** | Youth Organization Website | [Visit](https://youthhope-bd.netlify.app) |
-| 🏢 **Ononnobit** | Agency Website | [Visit](https://ononnobit.vercel.app) |
-| 💼 **Portfolio Website** | Personal Portfolio | [Visit](https://ridoan-zisan.netlify.app) |
-| 📝 **ZPad** | Notepad App | [Visit](https://zpad.netlify.app) |
+| 🏢 **OnonnoBit** | Agency Website | [Visit](https://ononnobit.vercel.app) |
+| 🌐 **Portfolio** | Personal Portfolio Website | [Visit](https://ridoan-zisan.netlify.app) |
+| 📝 **ZPad** | Notepad Web App | [Visit](https://zpad.netlify.app) |
 
 ---
 
-## 🎓 Certifications
+### 🏆 Certifications
 
 <details>
-<summary><b>💻 Technology & Development</b></summary>
+<summary><strong>💻 Technology & Development</strong></summary>
 <br>
 
-| Certificate | Preview |
-|---|---|
-| Google IT Support | [View](https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png) |
-| Foundations of Cyber Security | [View](https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png) |
-| Complete Web Development | [View](https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png) |
-| Introduction to Python | [View](https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg) |
-| Python for Data Science & AI Development | [View](https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png) |
-| Introduction to Artificial Intelligence | [View](https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png) |
-| Machine Learning | [View](https://i.postimg.cc/7YB27FPb/machine-learning.png) |
-| Digital Marketing | [View](https://i.postimg.cc/XvKr2JBs/digital-marketing.png) |
+- [Google IT Support](https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png)
+- [Foundations of Cyber Security](https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png)
+- [Complete Web Development](https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png)
+- [Introduction to Python](https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg)
+- [Python for Data Science & AI Development](https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png)
+- [Introduction to Artificial Intelligence](https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png)
+- [Machine Learning](https://i.postimg.cc/7YB27FPb/machine-learning.png)
+- [Digital Marketing](https://i.postimg.cc/XvKr2JBs/digital-marketing.png)
 
 </details>
 
 <details>
-<summary><b>🌍 Sustainability & Climate</b></summary>
+<summary><strong>🌍 Sustainability & Climate</strong></summary>
 <br>
 
-| Certificate | Preview |
-|---|---|
-| Gender & Climate Action | [View](https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg) |
-| Net Zero 101: What, Why and How | [View](https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg) |
-| Introduction to Sustainable Development in Practice | [View](https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg) |
-| The UN Climate Change Process | [View](https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg) |
+- [Gender & Climate Action](https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg)
+- [Net Zero 101: What, Why and How](https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg)
+- [Introduction to Sustainable Development in Practice](https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg)
+- [The UN Climate Change Process](https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg)
 
 </details>
 
 <details>
-<summary><b>🏅 Competitions & Leadership</b></summary>
+<summary><strong>🏅 Competitions & Leadership</strong></summary>
 <br>
 
-| Certificate | Preview |
-|---|---|
-| BOBDO App Developer | [View](https://i.postimg.cc/8CfQNkjN/BOBDO.png) |
-| Bangladesh Mathematical Olympiad | [View](https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png) |
-| ICT Olympiad | [View](https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png) |
-| GK Olympiad | [View](https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg) |
+- [BOBDO App Developer](https://i.postimg.cc/8CfQNkjN/BOBDO.png)
+- [Bangladesh Mathematical Olympiad](https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png)
+- [ICT Olympiad](https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png)
+- [GK Olympiad](https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg)
 
 </details>
 
 ---
 
-## 🏢 OnonnoBit — Custom Web App Development Agency
+### 🏢 About OnonnoBit
 
-<div align="center">
-<img src="https://ononnobit.vercel.app/icon.png" width="90" height="90" style="border-radius:50%;" alt="OnonnoBit"/>
-</div>
+<p align="center">
+  <img src="https://ononnobit.vercel.app/icon.png" width="90" style="border-radius:16px" alt="OnonnoBit"/>
+</p>
 
-**OnonnoBit** is a custom web application development agency founded by Ridoan, based in **Bogura, Bangladesh**, serving clients remotely worldwide.
+**OnonnoBit** is a custom web application development agency based in **Bogura, Bangladesh (Remote)**.
 
 **Services:**
-- 🌐 Custom Web Application Development
+- 🖥️ Custom Web Application Development
 - 🎓 LMS (Learning Management System) Solutions
 - 🛒 E-commerce Solutions
 - 📊 Business Management Systems
@@ -174,24 +115,38 @@ I'm **Md Ridoan Mahmud Zisan**, a Web Application Developer and the **Founder of
 - 🤖 AEO (Answer Engine Optimization)
 - ✨ GEO (Generative Engine Optimization)
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ononnobit.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ononnobit@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801763822211)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ononnobit)
-[![GitHub Org](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ononnobit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/ononnobit)
+<p align="center">
+  <a href="https://ononnobit.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:ononnobit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/8801763822211" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://facebook.com/ononnobit" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/ononnobit" target="_blank"><img src="https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/company/ononnobit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-<div align="center">
+### 📊 GitHub Activity & Full Contribution Calendar
 
-### 📩 Let's build something great together!
+<p align="center">
+  <img src="https://github.com/RidoanDev/RidoanDev/blob/main/github-metrics.svg" alt="Ridoan's full contribution calendar" />
+</p>
 
-<img src="https://ridoan-zisan.netlify.app/signature.png" height="60" alt="Signature"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-**Md Ridoan Mahmud Zisan**
-*Founder & Web Application Developer, OnonnoBit*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true" />
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/RidoanDev/count.svg)
+> ℹ️ **উপরের full contribution calendar (`github-metrics.svg`) কাজ করানোর জন্য একটি GitHub Action সেটআপ করতে হবে** — নিচে সম্পূর্ণ workflow দেওয়া আছে।
 
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RidoanDev&style=for-the-badge&color=blueviolet" alt="profile views"/>
+</p>
+
+<h3 align="center">🌐 Let's Connect & Build Something Great Together!</h3>
