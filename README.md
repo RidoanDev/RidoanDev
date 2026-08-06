@@ -73,68 +73,11 @@ const OnonnoBit = {
 
 ## 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://vitejs.dev/logo.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Vite</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Kotlin</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Vercel</b></sub>
-    </td>
-    <td align="center" width="96px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-      <sub><b>Netlify</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,kotlin,java,firebase,git,github,vercel,netlify&theme=dark" alt="Tech Stack Icons" />
+
+</div>
 
 ---
 
