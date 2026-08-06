@@ -14,18 +14,19 @@
 
 <br/><br/>
 
-<a href="#-about-me">About</a> •
-<a href="#-onnobit--my-agency">Agency</a> •
-<a href="#️-tech-stack--tools">Tech Stack</a> •
-<a href="#-github-statistics">Stats</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-certifications">Certifications</a> •
-<a href="#-connect-with-me">Contact</a>
+<a href="#about-me">About</a> •
+<a href="#onnobit-agency">Agency</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#github-statistics">Stats</a> •
+<a href="#featured-projects">Projects</a> •
+<a href="#certifications">Certifications</a> •
+<a href="#connect-with-me">Contact</a>
 
 </div>
 
 ---
 
+<a id="about-me"></a>
 ## 👤 About Me
 
 ```typescript
@@ -50,6 +51,7 @@ const ridoanZisan = {
 
 ---
 
+<a id="onnobit-agency"></a>
 ## 🏢 OnonnoBit — My Agency
 
 <div align="center">
@@ -73,7 +75,7 @@ const OnonnoBit = {
 
 [![Website](https://img.shields.io/badge/Website-OnonnoBit-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ononnobit.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ononnobit-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ononnobit@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801712525910-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801712525910)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801763822211-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801763822211)
 [![GitHub](https://img.shields.io/badge/GitHub-ononnobit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ononnobit)
 [![Facebook](https://img.shields.io/badge/Facebook-ononnobit-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ononnobit)
 [![Instagram](https://img.shields.io/badge/Instagram-ononnobit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ononnobit)
@@ -84,6 +86,7 @@ const OnonnoBit = {
 
 ---
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack & Tools
 
 <table align="center">
@@ -133,14 +136,15 @@ const OnonnoBit = {
 
 ---
 
+<a id="github-statistics"></a>
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" alt="GitHub profile summary" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" alt="GitHub streak stats" />
 
 </div>
 
@@ -153,19 +157,20 @@ const OnonnoBit = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=RidoanDev&theme=onestar&no-frame=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=RidoanDev&theme=onestar&no-frame=true&column=7&margin-w=10" alt="GitHub trophies" />
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" alt="GitHub contribution activity graph" />
 <br/>
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/Snake.svg" width="100%" />
 </div>
 
 ---
 
+<a id="featured-projects"></a>
 ## 🚀 Featured Projects
 
 <table>
@@ -279,6 +284,7 @@ const OnonnoBit = {
 
 ---
 
+<a id="certifications"></a>
 ## 🎓 Certifications
 
 <details open>
@@ -425,6 +431,7 @@ const OnonnoBit = {
 
 ---
 
+<a id="connect-with-me"></a>
 ## 🤝 Connect With Me
 
 <div align="center">
