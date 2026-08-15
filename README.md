@@ -155,7 +155,7 @@ const OnonnoBit = {
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages Pie Chart" />
+<img width="100%" src="./lang-chart.svg" alt="Most Used Languages Chart" />
 
 </div>
 
@@ -172,34 +172,12 @@ const OnonnoBit = {
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img alt="GitHub Contribution Grid" src="https://ghchart.rshah.org/2563eb/RidoanDev" width="100%" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
 </div>
-
-<details>
-<summary align="center"><b>📅 Full Commit History (Year by Year, from the beginning)</b></summary>
 
 <div align="center">
-
-**2026**
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff&year=2026" />
-
-**2025**
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff&year=2025" />
-
-**2024**
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff&year=2024" />
-
-**2023**
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff&year=2023" />
-
-**2022**
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff&year=2022" />
-
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/Snake.svg" width="100%" />
 </div>
-
-</details>
 
 ---
 
