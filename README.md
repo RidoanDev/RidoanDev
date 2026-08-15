@@ -155,8 +155,7 @@ const OnonnoBit = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/?username=RidoanDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="100%" src="./lang-chart.svg" alt="Most Used Languages Chart" />
 
 </div>
 
@@ -173,11 +172,11 @@ const OnonnoBit = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
 </div>
 
 <div align="center">
-  <img alt="Full contribution calendar" src="https://ghchart.rshah.org/2563eb/RidoanDev" width="100%" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/Snake.svg" width="100%" />
 </div>
 
 ---
