@@ -20,28 +20,11 @@
 
 ---
 
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-| Badge | Achievement | Description |
-|:---:|:---|:---|
-| 🦈 | **Pull Shark** | Merged multiple pull requests |
-| ⭐ | **Starstruck** | Repository received 16+ stars |
-| 🤠 | **YOLO** | Merged PR without code review |
-| ⚡ | **Quickdraw** | Closed issue/PR within 5 minutes |
-| 👫 | **Pair Extraordinaire** | Co-authored a merged pull request |
-| 🧠 | **Galaxy Brain** | Answered discussions marked as accepted |
-| ❤️ | **Heartfelt** | Reacted with ❤️ to issues/discussions |
-
-</div>
-
----
 
 ## 👤 About Me
 
 ```typescript
-const ridoanZisan = {
+const RidoanDev = {
   name        : "Md Ridoan Mahmud Zisan",
   born        : "31 December 2007",
   age         : 17,
