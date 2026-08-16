@@ -20,34 +20,26 @@
 
 ---
 
-
 ## 👤 About Me
 
-```typescript
-const RidoanDev = {
-  name        : "Md Ridoan Mahmud Zisan",
-  born        : "31 December 2007",
-  age         : 17,
-  location    : "Bogura, Bangladesh 🇧🇩",
-  role        : "Founder & Developer @ OnonnoBit",
-  agency      : "https://ononnobit.vercel.app",
-  phone       : "+8801712525910",
-  email       : "ridoan.zisan@gmail.com",
-  portfolio   : "https://ridoan-zisan.netlify.app",
-  skills      : [
-    "React (TS)", "TypeScript", "TanStack", "Kotlin", "Java",
-    "Vite", "Tailwind CSS", "HTML5 & CSS3", "JavaScript",
-    "Firebase (Auth + Firestore)", "REST APIs", "Git", "GitHub"
-  ],
-  deploys     : ["Netlify", "Vercel"],
-  builds      : ["Web Applications", "PWA Applications", "Websites"],
-  passion     : "Crafting impactful digital solutions for real-world problems",
-  funFact     : "I started coding before I turned 16 — and never stopped 🚀",
-  currentGoal : "Building Bangladesh's best web app agency 🇧🇩"
-};
-```
+<table>
+<tr><td width="140px"><b>🧑 Name</b></td><td>Md Ridoan Mahmud Zisan</td></tr>
+<tr><td><b>🎂 Born</b></td><td>31 December 2007 (Age 17)</td></tr>
+<tr><td><b>📍 Location</b></td><td>Bogura, Bangladesh 🇧🇩</td></tr>
+<tr><td><b>💼 Role</b></td><td>Founder & Developer @ <a href="https://ononnobit.vercel.app">OnonnoBit</a></td></tr>
+<tr><td><b>📧 Email</b></td><td><a href="mailto:ridoan.zisan@gmail.com">ridoan.zisan@gmail.com</a></td></tr>
+<tr><td><b>📱 Phone</b></td><td><a href="tel:+8801712525910">+880 1712‑525910</a></td></tr>
+<tr><td><b>🌐 Portfolio</b></td><td><a href="https://ridoan-zisan.netlify.app">ridoan-zisan.netlify.app</a></td></tr>
+<tr><td><b>🚀 Deploys On</b></td><td>Netlify, Vercel</td></tr>
+<tr><td><b>🏗️ Builds</b></td><td>Web Applications, PWA Applications, Websites</td></tr>
+<tr><td><b>❤️ Passion</b></td><td>Crafting impactful digital solutions for real‑world problems</td></tr>
+<tr><td><b>🎯 Current Goal</b></td><td>Building Bangladesh's best web app agency 🇧🇩</td></tr>
+<tr><td><b>✨ Fun Fact</b></td><td>Started coding before turning 16 — and never stopped 🚀</td></tr>
+</table>
 
-🏢 I'm the Founder & Developer of **OnonnoBit** — a custom web app development agency based in Bogura, Bangladesh, building scalable React, TypeScript & Firebase apps (LMS, e-commerce, business tools) for startups, SMBs & NGOs.
+**Core Skills:** React (TS) · TypeScript · JavaScript · TanStack · Kotlin · Java · Vite · Tailwind CSS · HTML5 & CSS3 · Firebase (Auth + Firestore) · REST APIs · Git · GitHub
+
+🏢 I'm the Founder & Developer of **OnonnoBit** — a custom web app development agency based in Bogura, Bangladesh, building scalable React, TypeScript & Firebase apps (LMS, e‑commerce, business tools) for startups, SMBs & NGOs.
 
 ---
 
@@ -59,26 +51,19 @@ const RidoanDev = {
 **🚀 Custom Web App Development Agency**
 Building scalable digital solutions for startups, SMBs & NGOs
 </div>
+<br/>
 
-```typescript
-const OnonnoBit = {
-  name      : "OnonnoBit",
-  type      : "Custom Web App Development Agency",
-  location  : "Bogura, Bangladesh (Remote Available 🌍)",
-  website   : "https://ononnobit.vercel.app",
-  email     : "ononnobit@gmail.com",
-  phone     : "+8801763822211",
-  whatsapp  : "+8801763822211",
-  services  : [
-    "Custom Web App Development",
-    "LMS Solutions",
-    "E-commerce Solutions",
-    "Business Solutions",
-    "SEO", "AEO", "GEO"
-  ],
-  clients   : "Startups | SMBs | NGOs | Educational Institutions"
-};
-```
+<table>
+<tr><td width="140px"><b>🏢 Name</b></td><td>OnonnoBit</td></tr>
+<tr><td><b>🗂️ Type</b></td><td>Custom Web App Development Agency</td></tr>
+<tr><td><b>📍 Location</b></td><td>Bogura, Bangladesh (Remote Available 🌍)</td></tr>
+<tr><td><b>🌐 Website</b></td><td><a href="https://ononnobit.vercel.app">ononnobit.vercel.app</a></td></tr>
+<tr><td><b>📧 Email</b></td><td><a href="mailto:ononnobit@gmail.com">ononnobit@gmail.com</a></td></tr>
+<tr><td><b>📱 Phone</b></td><td><a href="tel:+8801763822211">+880 1763‑822211</a></td></tr>
+<tr><td><b>💬 WhatsApp</b></td><td><a href="https://wa.me/8801763822211">+880 1763‑822211</a></td></tr>
+<tr><td><b>🛠️ Services</b></td><td>Custom Web App Development, LMS Solutions, E‑commerce Solutions, Business Solutions, SEO, AEO, GEO</td></tr>
+<tr><td><b>🤝 Clients</b></td><td>Startups · SMBs · NGOs · Educational Institutions</td></tr>
+</table>
 
 <div align="center">
 
@@ -312,12 +297,12 @@ const OnonnoBit = {
 
 ## 📅 Weekly Development Breakdown
 
-```text
-React & TypeScript   ████████████████░░░░   65%
-Firebase & Backend   ████████░░░░░░░░░░░░   20%
-Tailwind & UI        ██████░░░░░░░░░░░░░░   10%
-DevOps & Deployment  ████░░░░░░░░░░░░░░░░    5%
-```
+| Area | Focus |
+|---|---|
+| React & TypeScript | ████████████████░░░░ 65% |
+| Firebase & Backend | ████████░░░░░░░░░░░░ 20% |
+| Tailwind & UI | ██████░░░░░░░░░░░░░░ 10% |
+| DevOps & Deployment | ████░░░░░░░░░░░░░░░░ 5% |
 
 ## 💡 What I'm Currently Working On
 
