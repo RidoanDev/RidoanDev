@@ -73,9 +73,8 @@ const ridoanZisan = {
 <div align="center">
 <img src="https://ononnobit.vercel.app/icon.png" width="100" style="border-radius:16px;" alt="OnonnoBit Logo" /><br/>
 
-🚀 **Custom Web App Development Agency**
+**🚀 Custom Web App Development Agency**
 Building scalable digital solutions for startups, SMBs & NGOs
-
 </div>
 
 ```typescript
@@ -100,10 +99,7 @@ const OnonnoBit = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-715EB4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ononnobit.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ononnobit@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801763822211)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
+[Website](https://ononnobit.vercel.app) • [Email](mailto:ononnobit@gmail.com) • [WhatsApp](https://wa.me/8801763822211) • [GitHub](https://github.com/RidoanDev) • [Facebook](#) • [Instagram](#) • [X](#) • [LinkedIn](#)
 
 </div>
 
@@ -117,34 +113,13 @@ const OnonnoBit = {
 
 <table>
 <tr>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>React</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>Tailwind CSS</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>shadcn/ui</b></sub>
-</td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>React</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>Tailwind CSS</b></sub></td>
+<td align="center" width="96px"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>shadcn/ui</b></sub></td>
 </tr>
 </table>
 
@@ -152,26 +127,11 @@ const OnonnoBit = {
 
 <table>
 <tr>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>Firebase</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo-500.png" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>TanStack</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://vitejs.dev/logo.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>Vite</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>Git</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>GitHub</b></sub>
-</td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>Firebase</b></sub></td>
+<td align="center" width="96px"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo-500.png" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>TanStack</b></sub></td>
+<td align="center" width="96px"><img src="https://vitejs.dev/logo.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>Vite</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>Git</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>GitHub</b></sub></td>
 </tr>
 </table>
 
@@ -179,22 +139,10 @@ const OnonnoBit = {
 
 <table>
 <tr>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>Kotlin</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>Java</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>Vercel</b></sub>
-</td>
-<td align="center" width="96px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/>
-<sub><b>Netlify</b></sub>
-</td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>Kotlin</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>Java</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>Vercel</b></sub></td>
+<td align="center" width="96px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" style="background:#fff;border-radius:8px;padding:4px;" /><br/><sub><b>Netlify</b></sub></td>
 </tr>
 </table>
 
@@ -205,18 +153,16 @@ const OnonnoBit = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=ff6b6b&currStreakLabel=60a5fa&background=0d1117" />
-
 </div>
 
 ## 💻 Most Used Languages
 
 <div align="center">
-<img width="100%" src="./lang-chart.svg" alt="Most Used Languages Chart" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoanDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=ffffff" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidoanDev&theme=tokyonight" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -229,10 +175,6 @@ const OnonnoBit = {
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
-</div>
-
-<div align="center">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RidoanDev/RidoanDev/main/Snake.svg" width="100%" />
 </div>
 
 ---
@@ -379,166 +321,21 @@ const OnonnoBit = {
 </table>
 
 <div align="center">
-
-<a href="https://ononnobit.vercel.app">
-<img src="https://img.shields.io/badge/🏢%20Visit%20OnonnoBit%20Agency-715EB4?style=for-the-badge&logoColor=white" />
-</a>
+<a href="https://ononnobit.vercel.app"><img src="https://img.shields.io/badge/🏢%20Visit%20OnonnoBit%20Agency-715EB4?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
-<a href="https://ridoan-zisan.netlify.app/blog">
-<img src="https://img.shields.io/badge/View%20All%2050%2B%20Projects-2563eb?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<a href="https://ridoan-zisan.netlify.app/blog"><img src="https://img.shields.io/badge/View%20All%2050%2B%20Projects-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
 ## 📅 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
 ```text
 React & TypeScript   ████████████████░░░░   65%
 Firebase & Backend   ████████░░░░░░░░░░░░   20%
 Tailwind & UI        ██████░░░░░░░░░░░░░░   10%
 DevOps & Deployment  ████░░░░░░░░░░░░░░░░    5%
 ```
-<!--END_SECTION:waka-->
-
----
-
-## 🎓 Certifications
-
-### 💻 Technology & Development
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png">
-<img src="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png" width="180" alt="Google IT Support" /><br/>
-<b>Google IT Support</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png">
-<img src="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png" width="180" alt="Foundations of Cyber Security" /><br/>
-<b>Foundations of Cyber Security</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png">
-<img src="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png" width="180" alt="Complete Web Development" /><br/>
-<b>Complete Web Development</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg">
-<img src="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg" width="180" alt="Introduction to Python" /><br/>
-<b>Introduction to Python</b>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png">
-<img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="180" alt="Python for Data Science & AI" /><br/>
-<b>Python for Data Science & AI</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png">
-<img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="180" alt="Introduction to AI" /><br/>
-<b>Introduction to Artificial Intelligence</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/7YB27FPb/machine-learning.png">
-<img src="https://i.postimg.cc/7YB27FPb/machine-learning.png" width="180" alt="Machine Learning" /><br/>
-<b>Machine Learning</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/XvKr2JBs/digital-marketing.png">
-<img src="https://i.postimg.cc/XvKr2JBs/digital-marketing.png" width="180" alt="Digital Marketing" /><br/>
-<b>Digital Marketing</b>
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-### 🌍 Sustainability & Climate
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg">
-<img src="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg" width="180" alt="Gender & Climate Action" /><br/>
-<b>Gender & Climate Action</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg">
-<img src="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg" width="180" alt="Net Zero 101" /><br/>
-<b>Net Zero 101</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg">
-<img src="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg" width="180" alt="Introduction to Sustainable Development" /><br/>
-<b>Introduction to Sustainable Development</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg">
-<img src="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg" width="180" alt="The UN Climate Change Process" /><br/>
-<b>The UN Climate Change Process</b>
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-### 🏅 Competitions & Leadership
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/8CfQNkjN/BOBDO.png">
-<img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="180" alt="BOBDO App Developer" /><br/>
-<b>BOBDO App Developer</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png">
-<img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="180" alt="Bangladesh Mathematical Olympiad" /><br/>
-<b>Bangladesh Mathematical Olympiad</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png">
-<img src="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png" width="180" alt="ICT Olympiad" /><br/>
-<b>ICT Olympiad</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg">
-<img src="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg" width="180" alt="GK Olympiad" /><br/>
-<b>GK Olympiad</b>
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<a href="https://ridoan-zisan.netlify.app/#certificates">
-<img src="https://img.shields.io/badge/View%20All%20Certificates-16a34a?style=for-the-badge&logo=academia&logoColor=white" />
-</a>
-</div>
-
----
 
 ## 💡 What I'm Currently Working On
 
@@ -550,33 +347,76 @@ DevOps & Deployment  ████░░░░░░░░░░░░░░░�
 
 ---
 
-## 🤝 Connect With Me
+## 🎓 Certifications
+
+### 💻 Technology & Development
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png"><img src="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png" width="180" alt="Google IT Support" /><br/><b>Google IT Support</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png"><img src="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png" width="180" alt="Foundations of Cyber Security" /><br/><b>Foundations of Cyber Security</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png"><img src="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png" width="180" alt="Complete Web Development" /><br/><b>Complete Web Development</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg"><img src="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg" width="180" alt="Introduction to Python" /><br/><b>Introduction to Python</b></a></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png"><img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="180" alt="Python for Data Science & AI" /><br/><b>Python for Data Science & AI</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png"><img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="180" alt="Introduction to AI" /><br/><b>Introduction to Artificial Intelligence</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/7YB27FPb/machine-learning.png"><img src="https://i.postimg.cc/7YB27FPb/machine-learning.png" width="180" alt="Machine Learning" /><br/><b>Machine Learning</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/XvKr2JBs/digital-marketing.png"><img src="https://i.postimg.cc/XvKr2JBs/digital-marketing.png" width="180" alt="Digital Marketing" /><br/><b>Digital Marketing</b></a></td>
+</tr>
+</table>
+</div>
+
+### 🌍 Sustainability & Climate
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg"><img src="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg" width="180" alt="Gender & Climate Action" /><br/><b>Gender & Climate Action</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg"><img src="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg" width="180" alt="Net Zero 101" /><br/><b>Net Zero 101</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg"><img src="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg" width="180" alt="Introduction to Sustainable Development" /><br/><b>Introduction to Sustainable Development</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg"><img src="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg" width="180" alt="The UN Climate Change Process" /><br/><b>The UN Climate Change Process</b></a></td>
+</tr>
+</table>
+</div>
+
+### 🏅 Competitions & Leadership
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://i.postimg.cc/8CfQNkjN/BOBDO.png"><img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="180" alt="BOBDO App Developer" /><br/><b>BOBDO App Developer</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png"><img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="180" alt="Bangladesh Mathematical Olympiad" /><br/><b>Bangladesh Mathematical Olympiad</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png"><img src="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png" width="180" alt="ICT Olympiad" /><br/><b>ICT Olympiad</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg"><img src="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg" width="180" alt="GK Olympiad" /><br/><b>GK Olympiad</b></a></td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<a href="https://ridoan-zisan.netlify.app/#certificates"><img src="https://img.shields.io/badge/View%20All%20Certificates-16a34a?style=for-the-badge&logo=academia&logoColor=white" /></a>
+</div>
+
+---
+
+## 📬 Hire Me / Work With Us
 
 <div align="center">
 
-[![OnonnoBit](https://img.shields.io/badge/OnonnoBit-715EB4?style=for-the-badge&logoColor=white)](https://ononnobit.vercel.app)
-[![Agency Email](https://img.shields.io/badge/Agency%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ononnobit@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ridoan-zisan.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidoanDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridoan.zisan@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801712525910)
-[![Phone](https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801712525910)
+💼 **Looking for a Web App Developer or a reliable Development Agency?**
+
+[Hire Me](mailto:ridoan.zisan@gmail.com) • [OnonnoBit Agency](https://ononnobit.vercel.app)
 
 </div>
 
 ---
 
-## 💖 Support My Work
+## 🤝 Connect With Me
 
 <div align="center">
 
-If you find my projects helpful, consider supporting me:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors)
+[OnonnoBit](https://ononnobit.vercel.app) • [Agency Email](mailto:ononnobit@gmail.com) • [Portfolio](https://ridoan-zisan.netlify.app) • [GitHub](https://github.com/RidoanDev) • [LinkedIn](#) • [Facebook](#) • [YouTube](#) • [Gmail](mailto:ridoan.zisan@gmail.com) • [WhatsApp](https://wa.me/8801712525910) • [Phone](tel:+8801712525910)
 
 </div>
 
