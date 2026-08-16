@@ -144,7 +144,7 @@ const OnonnoBit = {
 ## 💻 Most Used Languages
 
 <div align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidoanDev&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidoanDev&theme=tokyonight" />
 </div>
 
 ## 🏆 GitHub Trophies
