@@ -8,13 +8,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RidoanDev&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile Views" />
+<img height="28" src="https://komarev.com/ghpvc/?username=RidoanDev&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/RidoanDev?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
+<img height="28" src="https://img.shields.io/github/followers/RidoanDev?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/RidoanDev?label=Total+Stars&style=flat-square&color=f59e0b" alt="Stars" />
+<img height="28" src="https://img.shields.io/github/stars/RidoanDev?label=Total+Stars&style=flat-square&color=f59e0b" alt="Stars" />
 
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://ridoan-zisan.netlify.app)
 [![OnonnoBit](https://img.shields.io/badge/OnonnoBit%20Agency-715EB4?style=for-the-badge&logoColor=white)](https://ononnobit.vercel.app)
@@ -100,6 +100,7 @@ I specialize in building scalable, production-ready **web and PWA applications**
 ## GitHub Statistics
 
 <div align="center">
+
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" />
@@ -107,9 +108,10 @@ I specialize in building scalable, production-ready **web and PWA applications**
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidoanDev&theme=tokyonight" />
 
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=RidoanDev&theme=onestar&no-frame=true&column=7&margin-w=10" />
+<img width="100%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=RidoanDev&theme=onestar&no-frame=true&column=7&margin-w=10" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
+
 </div>
 
 ---
@@ -252,7 +254,8 @@ I specialize in building scalable, production-ready **web and PWA applications**
 ## OnonnoBit — My Agency
 
 <div align="center">
-<img src="https://ononnobit.vercel.app/icon.png" width="90" style="border-radius:16px;" alt="OnonnoBit Logo" />
+
+<img src="https://ononnobit.vercel.app/icon.png" width="90" height="90" style="border-radius:16px;" alt="OnonnoBit Logo" />
 
 ### Custom Web App Development Agency
 Building scalable digital solutions for startups, SMBs & NGOs
@@ -293,7 +296,7 @@ Building scalable digital solutions for startups, SMBs & NGOs
 
 [Website](https://ononnobit.vercel.app) • [Email](mailto:ononnobit@gmail.com) • [WhatsApp](https://wa.me/8801763822211) • [GitHub](https://github.com/RidoanDev)
 
-<br/><br/>
+<br/>
 
 <a href="https://ononnobit.vercel.app"><img src="https://img.shields.io/badge/🏢%20Visit%20OnonnoBit%20Agency-715EB4?style=for-the-badge&logoColor=white" /></a>
 
@@ -304,9 +307,9 @@ Building scalable digital solutions for startups, SMBs & NGOs
 ## Weekly Development Focus
 
 ```text
-React & JavaScript    ████████████████░░░░   65%
-Firebase & Backend     ████████░░░░░░░░░░░░   20%
-Tailwind & UI          ██████░░░░░░░░░░░░░░   10%
+React & JavaScript      ████████████████░░░░   65%
+Firebase & Backend      ████████░░░░░░░░░░░░   20%
+Tailwind & UI           ██████░░░░░░░░░░░░░░   10%
 DevOps & Deployment     ████░░░░░░░░░░░░░░░░    5%
 ```
 
@@ -326,16 +329,16 @@ DevOps & Deployment     ████░░░░░░░░░░░░░░�
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><a href="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png"><img src="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png" width="160" alt="Google IT Support" /><br/><b>Google IT Support</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png"><img src="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png" width="160" alt="Foundations of Cyber Security" /><br/><b>Foundations of Cyber Security</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png"><img src="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png" width="160" alt="Complete Web Development" /><br/><b>Complete Web Development</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg"><img src="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg" width="160" alt="Introduction to Python" /><br/><b>Introduction to Python</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png"><img src="https://i.postimg.cc/SRk6P0YS/Google-IT-Support.png" width="160" height="160" alt="Google IT Support" /><br/><b>Google IT Support</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png"><img src="https://i.postimg.cc/nhk0pcgv/Foundations-of-Cyber-Security.png" width="160" height="160" alt="Foundations of Cyber Security" /><br/><b>Foundations of Cyber Security</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png"><img src="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png" width="160" height="160" alt="Complete Web Development" /><br/><b>Complete Web Development</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg"><img src="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg" width="160" height="160" alt="Introduction to Python" /><br/><b>Introduction to Python</b></a></td>
 </tr>
 <tr>
-<td align="center" width="25%"><a href="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png"><img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="160" alt="Python for Data Science & AI" /><br/><b>Python for Data Science & AI</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png"><img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="160" alt="Introduction to AI" /><br/><b>Introduction to Artificial Intelligence</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/7YB27FPb/machine-learning.png"><img src="https://i.postimg.cc/7YB27FPb/machine-learning.png" width="160" alt="Machine Learning" /><br/><b>Machine Learning</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/XvKr2JBs/digital-marketing.png"><img src="https://i.postimg.cc/XvKr2JBs/digital-marketing.png" width="160" alt="Digital Marketing" /><br/><b>Digital Marketing</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png"><img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="160" height="160" alt="Python for Data Science & AI" /><br/><b>Python for Data Science & AI</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png"><img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="160" height="160" alt="Introduction to AI" /><br/><b>Introduction to Artificial Intelligence</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/7YB27FPb/machine-learning.png"><img src="https://i.postimg.cc/7YB27FPb/machine-learning.png" width="160" height="160" alt="Machine Learning" /><br/><b>Machine Learning</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/XvKr2JBs/digital-marketing.png"><img src="https://i.postimg.cc/XvKr2JBs/digital-marketing.png" width="160" height="160" alt="Digital Marketing" /><br/><b>Digital Marketing</b></a></td>
 </tr>
 </table>
 </div>
@@ -345,10 +348,10 @@ DevOps & Deployment     ████░░░░░░░░░░░░░░�
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><a href="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg"><img src="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg" width="160" alt="Gender & Climate Action" /><br/><b>Gender & Climate Action</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg"><img src="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg" width="160" alt="Net Zero 101" /><br/><b>Net Zero 101</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg"><img src="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg" width="160" alt="Introduction to Sustainable Development" /><br/><b>Introduction to Sustainable Development</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg"><img src="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg" width="160" alt="The UN Climate Change Process" /><br/><b>The UN Climate Change Process</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg"><img src="https://i.postimg.cc/V6Dd8VRM/Gender-equality-and-human-rights-in-climate-action-and-renewable-energy.jpg" width="160" height="160" alt="Gender & Climate Action" /><br/><b>Gender & Climate Action</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg"><img src="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg" width="160" height="160" alt="Net Zero 101" /><br/><b>Net Zero 101</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg"><img src="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg" width="160" height="160" alt="Introduction to Sustainable Development" /><br/><b>Introduction to Sustainable Development</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg"><img src="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg" width="160" height="160" alt="The UN Climate Change Process" /><br/><b>The UN Climate Change Process</b></a></td>
 </tr>
 </table>
 </div>
@@ -358,10 +361,10 @@ DevOps & Deployment     ████░░░░░░░░░░░░░░�
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><a href="https://i.postimg.cc/8CfQNkjN/BOBDO.png"><img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="160" alt="BOBDO App Developer" /><br/><b>BOBDO App Developer</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png"><img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="160" alt="Bangladesh Mathematical Olympiad" /><br/><b>Bangladesh Mathematical Olympiad</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png"><img src="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png" width="160" alt="ICT Olympiad" /><br/><b>ICT Olympiad</b></a></td>
-<td align="center" width="25%"><a href="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg"><img src="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg" width="160" alt="GK Olympiad" /><br/><b>GK Olympiad</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/8CfQNkjN/BOBDO.png"><img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="160" height="160" alt="BOBDO App Developer" /><br/><b>BOBDO App Developer</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png"><img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="160" height="160" alt="Bangladesh Mathematical Olympiad" /><br/><b>Bangladesh Mathematical Olympiad</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png"><img src="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png" width="160" height="160" alt="ICT Olympiad" /><br/><b>ICT Olympiad</b></a></td>
+<td align="center" width="25%"><a href="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg"><img src="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg" width="160" height="160" alt="GK Olympiad" /><br/><b>GK Olympiad</b></a></td>
 </tr>
 </table>
 </div>
@@ -381,20 +384,22 @@ DevOps & Deployment     ████░░░░░░░░░░░░░░�
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridoan.zisan@gmail.com)
 [![OnonnoBit Agency](https://img.shields.io/badge/OnonnoBit%20Agency-715EB4?style=for-the-badge&logoColor=white)](https://ononnobit.vercel.app)
 
-<br/><br/>
+<br/>
 
 **Connect with me**
 
-[GitHub](https://github.com/RidoanDev) • [Portfolio](https://ridoan-zisan.netlify.app) • [LinkedIn](#) • [Facebook](#) • [YouTube](#) • [Gmail](mailto:ridoan.zisan@gmail.com) • [WhatsApp](https://wa.me/8801712525910) • [Phone](tel:+8801712525910)
+[GitHub](https://github.com/RidoanDev) • [Portfolio](https://ridoan-zisan.netlify.app) • [Gmail](mailto:ridoan.zisan@gmail.com) • [WhatsApp](https://wa.me/8801712525910) • [Phone](tel:+8801712525910)
 
 </div>
 
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a5e,100:0f0c29&height=120&section=footer" />
 
 <sub>⭐ <i>If you find my work interesting, consider giving my repos a star — it truly means a lot!</i> ⭐</sub>
 
 <br/>
+
 <sub>🇧🇩 <i>Proudly building from Bangladesh for the World</i> 🌍</sub>
 
 </div>
