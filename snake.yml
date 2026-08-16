@@ -1,0 +1,39 @@
+# 🐍 Contribution Snake — GitHub Actions workflow
+#
+# HOW TO ENABLE:
+#   1. Copy this file to:  .github/workflows/snake.yml   (in your RidoanDev/RidoanDev repo)
+#   2. Commit & push. The workflow runs daily at midnight UTC + you can
+#      trigger it manually from the Actions tab.
+#   3. In README.md, uncomment the <picture> block inside the snake comment
+#      (see improved-README.md) so the animation is displayed.
+#
+# The snake image is generated into the "output" branch of your profile repo.
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:      # lets you run it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: RidoanDev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
