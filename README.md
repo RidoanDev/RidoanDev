@@ -281,3 +281,5 @@ I am a passionate **Founder & Web Application Developer** at **OnonnoBit**. I sp
 </td>
 </tr>
 </table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a5e,100:0f0c29&height=120&section=footer" />
