@@ -14,7 +14,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/RidoanDev?label=Total+Stars&style=flat-square&color=2563eb" alt="Stars" />
 
-<br/><br/>
+<br/>
 
   <p align="center">
     <a href="https://ridoan-zisan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
