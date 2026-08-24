@@ -48,20 +48,138 @@ I am a passionate **Founder & Web Application Developer** at **OnonnoBit**. I sp
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Featured Projects
 
-| Project Name | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **DeepGuard** | Android, Kotlin, UI/UX | [View Project](https://deepguard-pro.netlify.app/public/DeepGuard.apk) |
-| **Prokorsho** | React, Tailwind, Firebase | [Live Demo](https://prokorsho.netlify.app) |
-| **BitQraft** | React, TypeScript, Vite | [Live Demo](https://bitqraft.netlify.app) |
-| **UpCoach (LMS)** | React, TanStack, Firebase | [Live Demo](https://upcoach.netlify.app) |
-| **BloodMate** | React, Realtime DB | [Live Demo](https://blood-mate.netlify.app) |
-| **Chor Koi** | Next.js, Tailwind | [Live Demo](https://chor-koi.vercel.app) |
-| **MicroMedia** | React, Social API | [Live Demo](https://micro-media.netlify.app) |
-| **Zisan Trader** | Inventory Logic, React | [Live Demo](https://zisan-trader.netlify.app) |
-| **ResumeXora** | React, PDF Engine | [Live Demo](https://resumexora.vercel.app) |
-| **UniTopUp** | React, Payment Gateway | [Live Demo](https://unitopup.vercel.app) |
+### 💼 Professional & Business Solutions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ <a href="https://deepguard-pro.netlify.app/public/DeepGuard.apk">DeepGuard</a></h3>
+<p>Digital wellbeing Android app helping users track and manage screen time habits.</p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3>🛒 <a href="https://bitqraft.netlify.app">BitQraft</a></h3>
+<p>Full-featured e-commerce platform with product listings, cart, and checkout system.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 <a href="https://upcoach.netlify.app">UpCoach</a></h3>
+<p>Learning management system providing quality educational resources and tools.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</td>
+<td width="50%" valign="top">
+<h3>🩸 <a href="https://blood-mate.netlify.app">BloodMate</a></h3>
+<p>Blood management system connecting donors and recipients efficiently.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white" />
+</td>
+</tr>
+</table>
+
+### 🌍 Social Impact Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🚨 <a href="https://chor-koi.vercel.app">Chor Koi</a></h3>
+<p>Corruption alert platform empowering citizens to report and track corruption cases.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</td>
+<td width="50%" valign="top">
+<h3>📱 <a href="https://micro-media.netlify.app">MicroMedia</a></h3>
+<p>Social media platform for sharing posts and connecting with people.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🩸 <a href="https://bobdo.vercel.app">BOBDO</a></h3>
+<p>Blood donation organization platform managing donors and donation drives.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3>🌱 <a href="https://youthhope-bd.netlify.app">YouthHope BD</a></h3>
+<p>Youth organization platform promoting community engagement and social impact.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+</td>
+</tr>
+</table>
+
+### 🔧 Utility & Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📦 <a href="https://zisan-trader.netlify.app">Zisan Trader</a></h3>
+<p>Inventory management system for tracking stock, sales, and business operations.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</td>
+<td width="50%" valign="top">
+<h3>📄 <a href="https://resumexora.vercel.app">ResumeXora</a></h3>
+<p>Resume builder helping users craft professional resumes with ease.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔄 <a href="https://uniconverter.netlify.app">UniConverter</a></h3>
+<p>Universal converter tool for units, currencies, and data formats.</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3>💳 <a href="https://unitopup.vercel.app">UniTopUp</a></h3>
+<p>TopUp platform for mobile recharge and digital payment services.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📝 <a href="https://zpad.netlify.app">ZPad</a></h3>
+<p>Clean, fast online notepad for quick notes and text management.</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3>🌐 <a href="https://ridoan-zisan.netlify.app">Portfolio</a></h3>
+<p>Personal portfolio showcasing projects, skills, and professional journey.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://ridoan-zisan.netlify.app/blog"><img src="https://img.shields.io/badge/View%20All%2050%2B%20Projects-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
 
