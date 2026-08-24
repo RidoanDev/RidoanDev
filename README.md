@@ -267,15 +267,17 @@ I am a passionate **Founder & Web Application Developer** at **OnonnoBit**. I sp
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
+
+<table width="100%">
+<tr>
+<td align="left">
 <a href="https://facebook.com/ridoan.zisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridoan.zisan" height="30" width="40" /></a>
 <a href="https://youtube.com/@ridoan-zisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ridoan-zisan" height="30" width="40" /></a>
 <a href="https://wa.me/8801712525910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=Md+Ridoan+Mahmud+Zisan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" height="30" width="40" /></a></p>
-<p align="right">
-<img src="https://ridoan-zisan.netlify.app/signature.png" width="110">
-</p>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a5e,100:0f0c29&height=120&section=footer" />
-</div>
+<a href="https://www.google.com/search?q=Md+Ridoan+Mahmud+Zisan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" height="30" width="40" /></a>
+</td>
+<td align="right">
+<img src="https://ridoan-zisan.netlify.app/signature.png" width="105">
+</td>
+</tr>
+</table>
