@@ -1,11 +1,20 @@
 <div align="center">
-  <img src="https://ridoan-zisan.netlify.app/profile.jpg" width="150" style="border-radius: 50%; border: 3px solid #2196F3; padding: 5px;">
-  
-  <h1>✨ Md Ridoan Mahmud Zisan ✨</h1>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Founder+%26+Developer+at+OnonnoBit;Web+Application+Developer;MERN+Stack+Specialist;Problem+Solver" alt="Typing SVG" />
-  </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a5e,100:0d0d2b&height=200&section=header&text=Md%20Ridoan%20Mahmud%20Zisan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Application%20Developer%20%7C%20Founder%20@OnonnoBit&descAlignY=60&descSize=18&animation=fadeIn" />
+
+<a href="https://github.com/RidoanDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Md+Ridoan+Mahmud+Zisan+%F0%9F%91%8B;Founder+%26+Developer+%40+OnonnoBit;Web+%26+PWA+Application+Developer;React+%7C+JavaScript+%7C+Firebase+Expert;Building+Digital+Solutions+for+Bangladesh;50%2B+Projects+%26+Counting...;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=RidoanDev&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/RidoanDev?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/RidoanDev?label=Total+Stars&style=flat-square&color=2563eb" alt="Stars" />
+
+<br/><br/>
 
   <p align="center">
     <a href="https://ridoan-zisan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -13,6 +22,7 @@
     <a href="mailto:ridoan.zisan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
+
 
 ---
 
