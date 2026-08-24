@@ -266,8 +266,7 @@ I am a passionate **Founder & Web Application Developer** at **OnonnoBit**. I sp
 <br />
 
 <div align="right">
-  <img src="https://ridoan-zisan.netlify.app/signature.png" width="200">
-  <p><i>Building the future, one line of code at a time.</i></p>
+  <img src="https://ridoan-zisan.netlify.app/signature.png" width="50">
 </div>
 
 <div align="center">
