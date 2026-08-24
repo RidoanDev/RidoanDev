@@ -23,6 +23,7 @@
   </p>
 </div>
 
+
 ---
 
 ### 🚀 About Me
@@ -40,26 +41,141 @@ I am a passionate **Founder & Web Application Developer** at **OnonnoBit**. I sp
   <img src="https://skillicons.dev/icons?i=react,ts,kotlin,java,vite,tailwind,html,css,js,firebase,git,github,vercel,netlify&theme=dark" />
 </p>
 
+**Core Technologies:**
+- **Frontend:** React (TS), TypeScript, TanStack Query, Tailwind CSS, Modern UI Libs.
+- **Mobile/Backend:** Kotlin, Java, Firebase (Auth + Firestore), API Integration.
+- **Workflow:** Git, GitHub, Vercel, Netlify.
+
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-*   **🛡️ [DeepGuard](https://deepguard-pro.netlify.app/public/DeepGuard.apk)** - Digital Wellbeing Android App
-*   **🛍️ [Prokorsho](https://prokorsho.netlify.app)** - Multivendor Ecommerce Web App
-*   **🛒 [BitQraft](https://bitqraft.netlify.app)** - E-commerce Web App
-*   **🎓 [UpCoach](https://upcoach.netlify.app)** - Learning Management System
-*   **🩸 [BloodMate](https://blood-mate.netlify.app)** - Blood Management System
-*   **🚨 [Chor Koi](https://chor-koi.vercel.app)** - Corruption Alert Web App
-*   **📱 [MicroMedia](https://micro-media.netlify.app)** - Social Media Platform
-*   **📦 [Zisan Trader](https://zisan-trader.netlify.app)** - Inventory Management System
-*   **🩸 [BOBDO](https://bobdo.vercel.app)** - Blood Donation Organization Website
-*   **📄 [ResumeXora](https://resumexora.vercel.app)** - Resume Builder
-*   **🔄 [UniConverter](https://uniconverter.netlify.app)** - Universal Converter
-*   **💳 [UniTopUp](https://unitopup.vercel.app)** - TopUp Platform
-*   **🌱 [YouthHope BD](https://youthhope-bd.netlify.app)** - Youth Organization Website
-*   **🏢 [Ononnobit](https://ononnobit.vercel.app)** - Agency Website
-*   **🌐 [Portfolio Website](https://ridoan-zisan.netlify.app)** - Personal Showcase
-*   **📝 [ZPad](https://zpad.netlify.app)** - Online Notepad
+### 💼 Professional & Business Solutions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ <a href="https://deepguard-pro.netlify.app/public/DeepGuard.apk">DeepGuard</a></h3>
+<p>Digital wellbeing Android app helping users track and manage screen time habits.</p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3>🛒 <a href="https://bitqraft.netlify.app">BitQraft</a></h3>
+<p>Full-featured e-commerce platform with product listings, cart, and checkout system.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 <a href="https://upcoach.netlify.app">UpCoach</a></h3>
+<p>Learning management system providing quality educational resources and tools.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</td>
+<td width="50%" valign="top">
+<h3>🩸 <a href="https://blood-mate.netlify.app">BloodMate</a></h3>
+<p>Blood management system connecting donors and recipients efficiently.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white" />
+</td>
+</tr>
+</table>
+
+### 🌍 Social Impact Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🚨 <a href="https://chor-koi.vercel.app">Chor Koi</a></h3>
+<p>Corruption alert platform empowering citizens to report and track corruption cases.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</td>
+<td width="50%" valign="top">
+<h3>📱 <a href="https://micro-media.netlify.app">MicroMedia</a></h3>
+<p>Social media platform for sharing posts and connecting with people.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🩸 <a href="https://bobdo.vercel.app">BOBDO</a></h3>
+<p>Blood donation organization platform managing donors and donation drives.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3>🌱 <a href="https://youthhope-bd.netlify.app">YouthHope BD</a></h3>
+<p>Youth organization platform promoting community engagement and social impact.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+</td>
+</tr>
+</table>
+
+### 🔧 Utility & Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📦 <a href="https://zisan-trader.netlify.app">Zisan Trader</a></h3>
+<p>Inventory management system for tracking stock, sales, and business operations.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</td>
+<td width="50%" valign="top">
+<h3>📄 <a href="https://resumexora.vercel.app">ResumeXora</a></h3>
+<p>Resume builder helping users craft professional resumes with ease.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔄 <a href="https://uniconverter.netlify.app">UniConverter</a></h3>
+<p>Universal converter tool for units, currencies, and data formats.</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3>💳 <a href="https://unitopup.vercel.app">UniTopUp</a></h3>
+<p>TopUp platform for mobile recharge and digital payment services.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📝 <a href="https://zpad.netlify.app">ZPad</a></h3>
+<p>Clean, fast online notepad for quick notes and text management.</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3>🌐 <a href="https://ridoan-zisan.netlify.app">Portfolio</a></h3>
+<p>Personal portfolio showcasing projects, skills, and professional journey.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td>
+</tr>
+</table>
 
 <div align="center">
 <a href="https://ridoan-zisan.netlify.app/blog"><img src="https://img.shields.io/badge/View%20All%2050%2B%20Projects-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -77,6 +193,12 @@ I am a passionate **Founder & Web Application Developer** at **OnonnoBit**. I sp
     <td><img src="https://i.postimg.cc/gkr6Ym10/Complete-Web-Development.png" width="200" title="Web Development"></td>
     <td><img src="https://i.postimg.cc/L6qhcvZY/Introduction-to-Python.jpg" width="200" title="Python"></td>
   </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/j2X7CZSv/Python-for-Data-Science-AI-Development.png" width="200" title="AI & Data Science"></td>
+    <td><img src="https://i.postimg.cc/fTWdVzN6/introduction-to-artificial-intelligence.png" width="200" title="AI Intro"></td>
+    <td><img src="https://i.postimg.cc/7YB27FPb/machine-learning.png" width="200" title="Machine Learning"></td>
+    <td><img src="https://i.postimg.cc/XvKr2JBs/digital-marketing.png" width="200" title="Digital Marketing"></td>
+  </tr>
 </table>
 
 #### 🌿 Sustainability & Leadership
@@ -86,6 +208,12 @@ I am a passionate **Founder & Web Application Developer** at **OnonnoBit**. I sp
     <td><img src="https://i.postimg.cc/ZR7Kgybx/Net-Zero-101-What-Why-and-How.jpg" width="200" title="Net Zero"></td>
     <td><img src="https://i.postimg.cc/tCL7pPhr/Introduction-to-Sustainable-Development-in-Practice.jpg" width="200" title="Sustainability"></td>
     <td><img src="https://i.postimg.cc/zv4DDZRL/The-UN-Climate-Change-process.jpg" width="200" title="UN Climate Change"></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/8CfQNkjN/BOBDO.png" width="200" title="BOBDO Developer"></td>
+    <td><img src="https://i.postimg.cc/pLFhFkWb/Bangladesh-Mathematical-Olympiad.png" width="200" title="Math Olympiad"></td>
+    <td><img src="https://i.postimg.cc/wMwnXdDM/ICT-Olympiad.png" width="200" title="ICT Olympiad"></td>
+    <td><img src="https://i.postimg.cc/tTg8j6x0/GK-olympiad.jpg" width="200" title="GK Olympiad"></td>
   </tr>
 </table>
 
@@ -107,28 +235,36 @@ I am a passionate **Founder & Web Application Developer** at **OnonnoBit**. I sp
 ## 📊 GitHub Statistics
 
 <div align="center">
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidoanDev&theme=tokyonight" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=2563eb&currStreakLabel=60a5fa&background=0d1117" />
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
+
+<details>
+<summary><b>See more stats (trophies, languages, profile summary)</b></summary>
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidoanDev&theme=tokyonight" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=RidoanDev&theme=onestar&no-frame=true&column=7&margin-w=10" />
+
+</details>
+
 </div>
 
 ---
 
 ### 🤝 Connect with Me
-
-<table width="100%" border="0">
-  <tr>
-    <td align="left" width="50%">
-      <a href="https://facebook.com/ridoan.zisan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-      <a href="https://youtube.com/@ridoan-zisan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
-      <a href="https://wa.me/8801712525910" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
-      <a href="https://www.google.com/search?q=Md+Ridoan+Mahmud+Zisan" target="blank"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" height="30" width="40" /></a>
-    </td>
-    <td align="right" width="50%">
-      <img src="https://ridoan-zisan.netlify.app/signature.png" width="150" alt="Signature">
-    </td>
-  </tr>
-</table>
+<p align="left">
+<a href="https://facebook.com/ridoan.zisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridoan.zisan" height="30" width="40" /></a>
+<a href="https://youtube.com/@ridoan-zisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ridoan-zisan" height="30" width="40" /></a>
+<a href="https://wa.me/8801712525910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+<a href="https://www.google.com/search?q=Md+Ridoan+Mahmud+Zisan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" height="30" width="40" /></a>
+<p align="right">
+<img src="https://ridoan-zisan.netlify.app/signature.png" width="150">
+</p>
+<br />
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a5e,100:0f0c29&height=120&section=footer" />
