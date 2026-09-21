@@ -252,8 +252,6 @@ I am a passionate **Founder & Web Application Developer** at **OnonnoBit**. I sp
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RidoanDev&theme=tokyonight&hide_border=true&stroke=60a5fa&ring=60a5fa&fire=2563eb&currStreakLabel=60a5fa&background=0d1117" />
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidoanDev&theme=tokyonight" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidoanDev&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=2563eb&point=ffffff" />
-
 <details>
 <summary><b>See more stats (trophies, languages, profile summary)</b></summary>
 <br/>
